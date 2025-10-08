@@ -1,15 +1,6 @@
-import numpy as np
+import pandas as pd
 
-# Simulate a trained model (replace with actual loading logic)
-class DummyModel:
-    def predict(self, X):
-        # simple linear combination simulation
-        return np.sum(X, axis=1) * 0.5 + 1
-
-model = DummyModel()
-
-def make_predictions(features_list):
-    """Takes a list of dicts -> returns predictions"""
-    X = np.array([[v for v in f.values()] for f in features_list])
-    preds = model.predict(X)
-    return preds.tolist()
+# Replace this with your actual trained ML model
+def predict(df: pd.DataFrame) -> pd.Series:
+    # Example mock prediction logic:
+    return 1000 * df["numberOfRooms"] + 50 * df["squareMeters"]
