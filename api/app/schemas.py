@@ -1,15 +1,19 @@
 from pydantic import BaseModel
-from typing import List, Dict, Any
 
-class PredictionRequest(BaseModel):
-    features: List[Dict[str, float]]
-
-class PredictionResponse(BaseModel):
-    predictions: List[float]
-
-class PastPredictionResponse(BaseModel):
-    id: int
-    input_features: Dict[str, Any]
-    prediction: float
-    model_name: str
-    created_at: str
+class HouseInput(BaseModel):
+    squareMeters: float
+    numberOfRooms: int
+    hasYard: int
+    hasPool: int
+    floors: int
+    cityCode: int
+    cityPartRange: int
+    numPrevOwners: int
+    made: int
+    isNewBuilt: int
+    hasStormProtector: int
+    basement: float
+    attic: float
+    garage: float
+    hasStorageRoom: int
+    hasGuestRoom: int
