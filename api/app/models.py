@@ -1,5 +1,7 @@
 from sqlalchemy import Column, Integer, Float, String
-from .database import Base
+from database import Base
+from sqlalchemy.sql import func
+from sqlalchemy import DateTime
 
 class Prediction(Base):
     __tablename__ = "predictions"
@@ -22,4 +24,5 @@ class Prediction(Base):
     hasStorageRoom = Column(Integer)
     hasGuestRoom = Column(Integer)
     price = Column(Float)
+    created_at = Column(DateTime(timezone=True), server_default=func.now())
     source = Column(String, default="webapp")  # webapp or scheduled job

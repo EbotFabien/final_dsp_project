@@ -1,7 +1,15 @@
+# config.py
 import os
-from pydantic_settings import BaseSettings
 
-class Settings(BaseSettings):
-    DATABASE_URL: str = "sqlite:///./predictions.db"
+# PostgreSQL connection URL
+# Format: postgresql://username:password@host:port/dbname
+SQLALCHEMY_DATABASE_URL = os.getenv(
+    "DATABASE_URL",
+    "postgresql://postgres:password@localhost:5432/housing_predictions"
+)
 
-settings = Settings()
+# ML model path
+MODEL_PATH = os.getenv("MODEL_PATH", "./models/house_price_model.pkl")
+
+# API title
+API_TITLE = "House Price Prediction API"

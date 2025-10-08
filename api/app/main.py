@@ -1,13 +1,15 @@
 from fastapi import FastAPI, Depends
 from sqlalchemy.orm import Session
-from .schemas import HouseInput
-from .ml_model import predict
-from .database import SessionLocal, engine, Base
-from .crud import save_prediction, get_predictions
+from schemas import HouseInput
+from ml_model import predict
+from database import SessionLocal, engine, Base
+from crud import save_prediction, get_predictions
 import pandas as pd
 
 # Create tables
 Base.metadata.create_all(bind=engine)
+
+
 
 app = FastAPI(title="House Price Prediction API")
 
