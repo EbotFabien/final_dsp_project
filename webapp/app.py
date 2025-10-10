@@ -80,11 +80,11 @@ if page == "🔮 Prediction":
             st.error("Error making prediction")
         st.success("Prediction will appear here after connecting the backend!")
 
-    '''st.divider()
-    st.subheader("📂 Upload CSV for Multiple Predictions")
-    uploaded_file = st.file_uploader("Upload CSV", type=["csv"])
-    if uploaded_file is not None:
-        st.info("CSV prediction will appear here after connecting the backend!")'''
+    #st.divider()
+    #st.subheader("📂 Upload CSV for Multiple Predictions")
+    #uploaded_file = st.file_uploader("Upload CSV", type=["csv"])
+    #if uploaded_file is not None:
+        #st.info("CSV prediction will appear here after connecting the backend!")'''
 
 elif page == "📊 Past Predictions":
     st.header("📊 Past Predictions")

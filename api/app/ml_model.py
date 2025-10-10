@@ -1,6 +1,14 @@
 import pandas as pd
+import pickle
 
-# Replace this with your actual trained ML model
+# Load your pre-trained model
+with open("model.pkl", "rb") as f:
+    model = pickle.load(f)
+    print(model.feature_names_in_)
+
 def predict(df: pd.DataFrame) -> pd.Series:
-    # Example mock prediction logic:
-    return 1000 * df["numberOfRooms"] + 50 * df["squareMeters"]
+    """
+    Make predictions using the trained Linear Regression model.
+    """
+    predictions = model.predict(df)
+    return predictions

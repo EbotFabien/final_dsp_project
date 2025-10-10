@@ -3,4 +3,4 @@
 # Airflow
 # WebAPP
 # API
-# Machine learning pandas-2.3.3 psycopg2-binary-2.9.10
+# Machine learning pandas-2.3.3 psycopg2-binary-2.9.10 scikit-learn==1.6.1
