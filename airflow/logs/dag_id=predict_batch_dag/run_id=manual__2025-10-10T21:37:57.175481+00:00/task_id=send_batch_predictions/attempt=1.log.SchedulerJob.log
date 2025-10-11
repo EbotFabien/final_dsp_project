@@ -1,1 +1,0 @@
-[2025-10-11T05:43:07.380+0200] {scheduler_job_runner.py:781} ERROR - Executor reports task instance <TaskInstance: predict_batch_dag.send_batch_predictions manual__2025-10-10T21:37:57.175481+00:00 [queued]> finished (failed) although the task says it's queued. (Info: None) Was the task killed externally?
