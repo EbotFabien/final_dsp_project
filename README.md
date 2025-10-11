@@ -42,7 +42,7 @@ project_root/
 ## Components
 
 ### 1. Web App
-- Built using **Flask** (or your chosen framework)
+- Built using **Fast Api** 
 - Serves HTML templates and static assets
 - Handles user interactions and displays results
 
