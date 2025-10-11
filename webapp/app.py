@@ -7,7 +7,7 @@ st.set_page_config(
     page_icon="🔮",
     layout="wide",
 )
-
+main_url ='http://127.0.0.1:8000'
 API_URL = "http://127.0.0.1:8000/predict_single/"
 PAST_URL = "http://127.0.0.1:8000/past-predictions"
 st.sidebar.title("Navigation")
@@ -80,11 +80,31 @@ if page == "🔮 Prediction":
             st.error("Error making prediction")
         st.success("Prediction will appear here after connecting the backend!")
 
-    #st.divider()
-    #st.subheader("📂 Upload CSV for Multiple Predictions")
-    #uploaded_file = st.file_uploader("Upload CSV", type=["csv"])
-    #if uploaded_file is not None:
-        #st.info("CSV prediction will appear here after connecting the backend!")'''
+    st.divider()
+    st.subheader("📂 Upload CSV for Multiple Predictions")
+
+    uploaded_file = st.file_uploader("Upload CSV", type=["csv"])
+    if uploaded_file is not None:
+        df = pd.read_csv(uploaded_file)
+        st.write("Preview of uploaded CSV:")
+        st.dataframe(df.head())
+        if st.button("📈 Predict from CSV"):
+            try:
+                # Convert DataFrame to list of dicts (JSON-friendly format)
+                payload = df.to_dict(orient="records")
+
+                # Send POST request to /predict_batch/
+                response = requests.post(f"{main_url}/predict_batch/?source=webapp", json=payload)
+
+                if response.status_code == 200:
+                    # Extract predictions from backend response
+                    results = pd.DataFrame(response.json()["predictions"])
+                    st.success("✅ Predictions complete!")
+                    st.dataframe(results)
+                else:
+                    st.error(f"CSV prediction failed! {response.text}")
+            except Exception as e:
+                st.error(f"An error occurred: {e}")
 
 elif page == "📊 Past Predictions":
     st.header("📊 Past Predictions")

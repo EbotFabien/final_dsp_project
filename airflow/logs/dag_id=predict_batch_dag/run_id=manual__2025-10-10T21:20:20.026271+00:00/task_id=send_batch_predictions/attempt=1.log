@@ -1,0 +1,18 @@
+[2025-10-10T23:29:42.416+0200] {taskinstance.py:1979} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: predict_batch_dag.send_batch_predictions manual__2025-10-10T21:20:20.026271+00:00 [queued]>
+[2025-10-10T23:29:42.418+0200] {taskinstance.py:1979} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: predict_batch_dag.send_batch_predictions manual__2025-10-10T21:20:20.026271+00:00 [queued]>
+[2025-10-10T23:29:42.418+0200] {taskinstance.py:2193} INFO - Starting attempt 1 of 1
+[2025-10-10T23:29:42.423+0200] {taskinstance.py:2214} INFO - Executing <Task(PythonOperator): send_batch_predictions> on 2025-10-10 21:20:20.026271+00:00
+[2025-10-10T23:29:42.425+0200] {standard_task_runner.py:60} INFO - Started process 42920 to run task
+[2025-10-10T23:29:42.428+0200] {standard_task_runner.py:87} INFO - Running: ['airflow', 'tasks', 'run', 'predict_batch_dag', 'send_batch_predictions', 'manual__2025-10-10T21:20:20.026271+00:00', '--job-id', '103', '--raw', '--subdir', 'DAGS_FOLDER/prediction_dag.py', '--cfg-path', '/var/folders/rp/syznybx160jd0kg9k7r_sj8w0000gn/T/tmp2gkc_4f1']
+[2025-10-10T23:29:42.430+0200] {standard_task_runner.py:88} INFO - Job 103: Subtask send_batch_predictions
+[2025-10-10T23:29:42.456+0200] {task_command.py:423} INFO - Running <TaskInstance: predict_batch_dag.send_batch_predictions manual__2025-10-10T21:20:20.026271+00:00 [running]> on host ebots-macbook-pro.local
+[2025-10-10T23:29:42.475+0200] {taskinstance.py:2510} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='predict_batch_dag' AIRFLOW_CTX_TASK_ID='send_batch_predictions' AIRFLOW_CTX_EXECUTION_DATE='2025-10-10T21:20:20.026271+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-10-10T21:20:20.026271+00:00'
+[2025-10-10T23:29:42.476+0200] {logging_mixin.py:188} INFO - 📄 Found CSV file: /Users/ebotfabien/Desktop/school/air_new/dags/destination/data_part_1.csv
+[2025-10-10T23:29:42.484+0200] {logging_mixin.py:188} INFO - 📦 Sending 10 batch(es)...
+[2025-10-10T23:36:04.964+0200] {local_task_job_runner.py:302} WARNING - State of this instance has been externally set to queued. Terminating instance.
+[2025-10-10T23:36:05.042+0200] {process_utils.py:131} INFO - Sending Signals.SIGTERM to group 42920. PIDs of all processes in the group: [42920]
+[2025-10-10T23:36:05.042+0200] {process_utils.py:86} INFO - Sending the signal Signals.SIGTERM to group 42920
+[2025-10-10T23:37:05.083+0200] {process_utils.py:149} WARNING - process psutil.Process(pid=42920, name='Python', status='running', started='23:29:42') did not respond to SIGTERM. Trying SIGKILL
+[2025-10-10T23:37:05.101+0200] {process_utils.py:86} INFO - Sending the signal Signals.SIGKILL to group 42920
+[2025-10-10T23:37:05.107+0200] {process_utils.py:79} INFO - Process psutil.Process(pid=42920, name='Python', status='terminated', exitcode=<Negsignal.SIGKILL: -9>, started='23:29:42') (42920) terminated with exit code Negsignal.SIGKILL
+[2025-10-10T23:37:05.109+0200] {standard_task_runner.py:175} ERROR - Job 103 was killed before it finished (likely due to running out of memory)

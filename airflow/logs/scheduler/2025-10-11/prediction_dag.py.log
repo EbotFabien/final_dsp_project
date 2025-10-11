@@ -1,0 +1,304 @@
+[2025-10-11T05:43:08.290+0200] {processor.py:161} INFO - Started process (PID=70926) to work on /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T05:43:08.290+0200] {processor.py:830} INFO - Processing file /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py for tasks to queue
+[2025-10-11T05:43:08.291+0200] {logging_mixin.py:188} INFO - [2025-10-11T05:43:08.291+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T05:43:08.600+0200] {processor.py:840} INFO - DAG(s) 'ingest_data' retrieved from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T05:43:08.700+0200] {logging_mixin.py:188} INFO - [2025-10-11T05:43:08.700+0200] {override.py:1769} INFO - Created Permission View: can edit on DAG:ingest_data
+[2025-10-11T05:43:08.703+0200] {logging_mixin.py:188} INFO - [2025-10-11T05:43:08.703+0200] {override.py:1769} INFO - Created Permission View: can read on DAG:ingest_data
+[2025-10-11T05:43:08.706+0200] {logging_mixin.py:188} INFO - [2025-10-11T05:43:08.705+0200] {override.py:1769} INFO - Created Permission View: can delete on DAG:ingest_data
+[2025-10-11T05:43:08.706+0200] {logging_mixin.py:188} INFO - [2025-10-11T05:43:08.706+0200] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-10-11T05:43:08.709+0200] {logging_mixin.py:188} INFO - [2025-10-11T05:43:08.709+0200] {dag.py:3069} INFO - Creating ORM DAG for ingest_data
+[2025-10-11T05:43:08.813+0200] {logging_mixin.py:188} INFO - [2025-10-11T05:43:08.813+0200] {dag.py:3834} INFO - Setting next_dagrun for ingest_data to 2025-10-11 01:00:00+00:00, run_after=2025-10-11 01:00:05+00:00
+[2025-10-11T05:43:08.821+0200] {processor.py:183} INFO - Processing /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py took 0.531 seconds
+[2025-10-11T05:43:40.168+0200] {processor.py:161} INFO - Started process (PID=71268) to work on /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T05:43:40.169+0200] {processor.py:830} INFO - Processing file /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py for tasks to queue
+[2025-10-11T05:43:40.169+0200] {logging_mixin.py:188} INFO - [2025-10-11T05:43:40.169+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T05:43:40.427+0200] {processor.py:840} INFO - DAG(s) 'ingest_data' retrieved from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T05:43:40.491+0200] {logging_mixin.py:188} INFO - [2025-10-11T05:43:40.491+0200] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-10-11T05:43:40.499+0200] {logging_mixin.py:188} INFO - [2025-10-11T05:43:40.499+0200] {dag.py:3834} INFO - Setting next_dagrun for ingest_data to 2025-10-11 01:00:00+00:00, run_after=2025-10-11 01:00:05+00:00
+[2025-10-11T05:43:40.506+0200] {processor.py:183} INFO - Processing /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py took 0.339 seconds
+[2025-10-11T05:44:11.735+0200] {processor.py:161} INFO - Started process (PID=71598) to work on /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T05:44:11.736+0200] {processor.py:830} INFO - Processing file /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py for tasks to queue
+[2025-10-11T05:44:11.737+0200] {logging_mixin.py:188} INFO - [2025-10-11T05:44:11.737+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T05:44:11.989+0200] {processor.py:840} INFO - DAG(s) 'ingest_data' retrieved from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T05:44:12.102+0200] {logging_mixin.py:188} INFO - [2025-10-11T05:44:12.101+0200] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-10-11T05:44:12.109+0200] {logging_mixin.py:188} INFO - [2025-10-11T05:44:12.109+0200] {dag.py:3834} INFO - Setting next_dagrun for ingest_data to 2025-10-11 01:00:00+00:00, run_after=2025-10-11 01:00:05+00:00
+[2025-10-11T05:44:12.116+0200] {processor.py:183} INFO - Processing /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py took 0.382 seconds
+[2025-10-11T05:44:43.442+0200] {processor.py:161} INFO - Started process (PID=71919) to work on /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T05:44:43.443+0200] {processor.py:830} INFO - Processing file /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py for tasks to queue
+[2025-10-11T05:44:43.444+0200] {logging_mixin.py:188} INFO - [2025-10-11T05:44:43.444+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T05:44:43.731+0200] {processor.py:840} INFO - DAG(s) 'ingest_data' retrieved from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T05:44:43.848+0200] {logging_mixin.py:188} INFO - [2025-10-11T05:44:43.848+0200] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-10-11T05:44:43.854+0200] {logging_mixin.py:188} INFO - [2025-10-11T05:44:43.854+0200] {dag.py:3834} INFO - Setting next_dagrun for ingest_data to 2025-10-11 01:00:00+00:00, run_after=2025-10-11 01:00:05+00:00
+[2025-10-11T05:44:43.861+0200] {processor.py:183} INFO - Processing /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py took 0.420 seconds
+[2025-10-11T05:44:46.169+0200] {processor.py:161} INFO - Started process (PID=71920) to work on /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T05:44:46.170+0200] {processor.py:830} INFO - Processing file /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py for tasks to queue
+[2025-10-11T05:44:46.170+0200] {logging_mixin.py:188} INFO - [2025-10-11T05:44:46.170+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T05:44:46.733+0200] {processor.py:840} INFO - DAG(s) 'predict_batch_dag' retrieved from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T05:44:47.189+0200] {logging_mixin.py:188} INFO - [2025-10-11T05:44:47.189+0200] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-10-11T05:44:47.202+0200] {logging_mixin.py:188} INFO - [2025-10-11T05:44:47.202+0200] {dag.py:3834} INFO - Setting next_dagrun for predict_batch_dag to 2025-10-11 03:44:40+00:00, run_after=2025-10-11 03:44:45+00:00
+[2025-10-11T05:44:47.395+0200] {processor.py:183} INFO - Processing /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py took 1.227 seconds
+[2025-10-11T06:01:42.798+0200] {processor.py:161} INFO - Started process (PID=82898) to work on /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:01:42.799+0200] {processor.py:830} INFO - Processing file /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py for tasks to queue
+[2025-10-11T06:01:42.799+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:01:42.799+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:01:43.082+0200] {processor.py:840} INFO - DAG(s) 'predict_batch_dag' retrieved from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:01:43.211+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:01:43.211+0200] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-10-11T06:01:43.240+0200] {processor.py:183} INFO - Processing /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py took 0.442 seconds
+[2025-10-11T06:02:15.875+0200] {processor.py:161} INFO - Started process (PID=83229) to work on /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:02:15.875+0200] {processor.py:830} INFO - Processing file /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py for tasks to queue
+[2025-10-11T06:02:15.876+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:02:15.875+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:02:16.197+0200] {processor.py:840} INFO - DAG(s) 'predict_batch_dag' retrieved from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:02:16.389+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:02:16.389+0200] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-10-11T06:02:16.427+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:02:16.427+0200] {dag.py:3069} INFO - Creating ORM DAG for predict_batch_dag
+[2025-10-11T06:02:16.435+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:02:16.435+0200] {dag.py:3834} INFO - Setting next_dagrun for predict_batch_dag to 2025-10-11 04:02:10+00:00, run_after=2025-10-11 04:02:15+00:00
+[2025-10-11T06:02:16.522+0200] {processor.py:183} INFO - Processing /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py took 0.648 seconds
+[2025-10-11T06:02:30.591+0200] {processor.py:161} INFO - Started process (PID=83366) to work on /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:02:30.591+0200] {processor.py:830} INFO - Processing file /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py for tasks to queue
+[2025-10-11T06:02:30.592+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:02:30.592+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:02:30.852+0200] {processor.py:840} INFO - DAG(s) 'predict_batch_dag' retrieved from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:02:30.856+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:02:30.856+0200] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-10-11T06:02:30.992+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:02:30.992+0200] {dag.py:3834} INFO - Setting next_dagrun for predict_batch_dag to 2025-10-11 04:02:25+00:00, run_after=2025-10-11 04:02:30+00:00
+[2025-10-11T06:02:31.002+0200] {processor.py:183} INFO - Processing /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py took 0.412 seconds
+[2025-10-11T06:03:02.944+0200] {processor.py:161} INFO - Started process (PID=83698) to work on /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:03:02.946+0200] {processor.py:830} INFO - Processing file /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py for tasks to queue
+[2025-10-11T06:03:02.946+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:03:02.946+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:03:03.415+0200] {processor.py:840} INFO - DAG(s) 'predict_batch_dag' retrieved from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:03:03.532+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:03:03.532+0200] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-10-11T06:03:03.555+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:03:03.555+0200] {dag.py:3834} INFO - Setting next_dagrun for predict_batch_dag to 2025-10-11 04:02:55+00:00, run_after=2025-10-11 04:03:00+00:00
+[2025-10-11T06:03:03.562+0200] {processor.py:183} INFO - Processing /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py took 0.618 seconds
+[2025-10-11T06:03:34.906+0200] {processor.py:161} INFO - Started process (PID=84037) to work on /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:03:34.907+0200] {processor.py:830} INFO - Processing file /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py for tasks to queue
+[2025-10-11T06:03:34.907+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:03:34.907+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:03:35.210+0200] {processor.py:840} INFO - DAG(s) 'predict_batch_dag' retrieved from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:03:35.400+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:03:35.400+0200] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-10-11T06:03:35.409+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:03:35.409+0200] {dag.py:3834} INFO - Setting next_dagrun for predict_batch_dag to 2025-10-11 04:03:30+00:00, run_after=2025-10-11 04:03:35+00:00
+[2025-10-11T06:03:35.425+0200] {processor.py:183} INFO - Processing /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py took 0.519 seconds
+[2025-10-11T06:04:06.902+0200] {processor.py:161} INFO - Started process (PID=84368) to work on /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:04:06.904+0200] {processor.py:830} INFO - Processing file /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py for tasks to queue
+[2025-10-11T06:04:06.904+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:04:06.904+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:04:07.197+0200] {processor.py:840} INFO - DAG(s) 'predict_batch_dag' retrieved from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:04:07.339+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:04:07.339+0200] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-10-11T06:04:07.346+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:04:07.346+0200] {dag.py:3834} INFO - Setting next_dagrun for predict_batch_dag to 2025-10-11 04:04:00+00:00, run_after=2025-10-11 04:04:05+00:00
+[2025-10-11T06:04:07.353+0200] {processor.py:183} INFO - Processing /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py took 0.452 seconds
+[2025-10-11T06:04:38.824+0200] {processor.py:161} INFO - Started process (PID=84712) to work on /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:04:38.825+0200] {processor.py:830} INFO - Processing file /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py for tasks to queue
+[2025-10-11T06:04:38.825+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:04:38.825+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:04:39.131+0200] {processor.py:840} INFO - DAG(s) 'predict_batch_dag' retrieved from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:04:39.254+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:04:39.254+0200] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-10-11T06:04:39.270+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:04:39.270+0200] {dag.py:3834} INFO - Setting next_dagrun for predict_batch_dag to 2025-10-11 04:04:30+00:00, run_after=2025-10-11 04:04:35+00:00
+[2025-10-11T06:04:39.278+0200] {processor.py:183} INFO - Processing /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py took 0.454 seconds
+[2025-10-11T06:10:57.812+0200] {processor.py:161} INFO - Started process (PID=88693) to work on /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:10:57.813+0200] {processor.py:830} INFO - Processing file /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py for tasks to queue
+[2025-10-11T06:10:57.813+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:10:57.813+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:10:58.118+0200] {processor.py:840} INFO - DAG(s) 'predict_batch_dag' retrieved from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:10:58.229+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:10:58.228+0200] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-10-11T06:10:58.243+0200] {processor.py:183} INFO - Processing /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py took 0.432 seconds
+[2025-10-11T06:14:29.272+0200] {processor.py:161} INFO - Started process (PID=90907) to work on /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:14:29.275+0200] {processor.py:830} INFO - Processing file /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py for tasks to queue
+[2025-10-11T06:14:29.275+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:14:29.275+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:14:29.650+0200] {processor.py:840} INFO - DAG(s) 'predict_batch_dag' retrieved from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:14:29.770+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:14:29.770+0200] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-10-11T06:14:29.787+0200] {processor.py:183} INFO - Processing /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py took 0.517 seconds
+[2025-10-11T06:16:31.328+0200] {processor.py:161} INFO - Started process (PID=92256) to work on /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:16:31.329+0200] {processor.py:830} INFO - Processing file /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py for tasks to queue
+[2025-10-11T06:16:31.329+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:16:31.329+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:16:31.705+0200] {processor.py:840} INFO - DAG(s) 'predict_batch_dag' retrieved from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:16:31.879+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:16:31.879+0200] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-10-11T06:16:31.921+0200] {processor.py:183} INFO - Processing /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py took 0.594 seconds
+[2025-10-11T06:18:24.817+0200] {processor.py:161} INFO - Started process (PID=93389) to work on /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:18:24.817+0200] {processor.py:830} INFO - Processing file /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py for tasks to queue
+[2025-10-11T06:18:24.818+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:18:24.818+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:18:25.228+0200] {processor.py:840} INFO - DAG(s) 'predict_batch_dag' retrieved from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:18:25.336+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:18:25.336+0200] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-10-11T06:18:25.350+0200] {processor.py:183} INFO - Processing /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py took 0.534 seconds
+[2025-10-11T06:27:51.342+0200] {processor.py:161} INFO - Started process (PID=99710) to work on /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:27:51.343+0200] {processor.py:830} INFO - Processing file /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py for tasks to queue
+[2025-10-11T06:27:51.343+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:27:51.343+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:27:51.829+0200] {processor.py:840} INFO - DAG(s) 'predict_batch_dag' retrieved from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:27:52.141+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:27:52.141+0200] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-10-11T06:27:52.157+0200] {processor.py:183} INFO - Processing /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py took 0.815 seconds
+[2025-10-11T06:28:24.062+0200] {processor.py:161} INFO - Started process (PID=203) to work on /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:28:24.063+0200] {processor.py:830} INFO - Processing file /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py for tasks to queue
+[2025-10-11T06:28:24.063+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:28:24.063+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:28:24.451+0200] {processor.py:840} INFO - DAG(s) 'predict_batch_dag' retrieved from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:28:24.654+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:28:24.654+0200] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-10-11T06:28:24.661+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:28:24.661+0200] {dag.py:3834} INFO - Setting next_dagrun for predict_batch_dag to 2025-10-11 04:28:15+00:00, run_after=2025-10-11 04:28:20+00:00
+[2025-10-11T06:28:24.669+0200] {processor.py:183} INFO - Processing /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py took 0.607 seconds
+[2025-10-11T06:28:57.787+0200] {processor.py:161} INFO - Started process (PID=663) to work on /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:28:57.788+0200] {processor.py:830} INFO - Processing file /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py for tasks to queue
+[2025-10-11T06:28:57.788+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:28:57.788+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:28:58.370+0200] {processor.py:840} INFO - DAG(s) 'predict_batch_dag' retrieved from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:28:58.506+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:28:58.506+0200] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-10-11T06:28:58.519+0200] {processor.py:183} INFO - Processing /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py took 0.732 seconds
+[2025-10-11T06:29:31.816+0200] {processor.py:161} INFO - Started process (PID=1088) to work on /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:29:31.817+0200] {processor.py:830} INFO - Processing file /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py for tasks to queue
+[2025-10-11T06:29:31.817+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:29:31.817+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:29:32.467+0200] {processor.py:840} INFO - DAG(s) 'predict_batch_dag' retrieved from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:29:32.672+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:29:32.671+0200] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-10-11T06:29:32.686+0200] {processor.py:183} INFO - Processing /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py took 0.870 seconds
+[2025-10-11T06:29:51.896+0200] {processor.py:161} INFO - Started process (PID=1334) to work on /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:29:51.896+0200] {processor.py:830} INFO - Processing file /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py for tasks to queue
+[2025-10-11T06:29:51.896+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:29:51.896+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:29:52.330+0200] {processor.py:840} INFO - DAG(s) 'predict_batch_dag' retrieved from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:29:52.425+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:29:52.425+0200] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-10-11T06:29:52.443+0200] {processor.py:183} INFO - Processing /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py took 0.549 seconds
+[2025-10-11T06:30:26.753+0200] {processor.py:161} INFO - Started process (PID=1689) to work on /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:30:26.753+0200] {processor.py:830} INFO - Processing file /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py for tasks to queue
+[2025-10-11T06:30:26.754+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:30:26.754+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:30:27.598+0200] {processor.py:840} INFO - DAG(s) 'predict_batch_dag' retrieved from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:30:27.706+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:30:27.706+0200] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-10-11T06:30:27.721+0200] {processor.py:183} INFO - Processing /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py took 0.968 seconds
+[2025-10-11T06:31:02.748+0200] {processor.py:161} INFO - Started process (PID=2152) to work on /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:31:02.749+0200] {processor.py:830} INFO - Processing file /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py for tasks to queue
+[2025-10-11T06:31:02.749+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:31:02.749+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:31:03.367+0200] {processor.py:840} INFO - DAG(s) 'predict_batch_dag' retrieved from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:31:03.550+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:31:03.550+0200] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-10-11T06:31:03.566+0200] {processor.py:183} INFO - Processing /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py took 0.819 seconds
+[2025-10-11T06:31:20.308+0200] {processor.py:161} INFO - Started process (PID=2275) to work on /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:31:20.309+0200] {processor.py:830} INFO - Processing file /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py for tasks to queue
+[2025-10-11T06:31:20.309+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:31:20.309+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:31:20.887+0200] {processor.py:840} INFO - DAG(s) 'predict_batch_dag' retrieved from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:31:21.095+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:31:21.095+0200] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-10-11T06:31:21.129+0200] {processor.py:183} INFO - Processing /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py took 0.821 seconds
+[2025-10-11T06:33:16.328+0200] {processor.py:161} INFO - Started process (PID=3583) to work on /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:33:16.328+0200] {processor.py:830} INFO - Processing file /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py for tasks to queue
+[2025-10-11T06:33:16.329+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:33:16.328+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:33:16.809+0200] {processor.py:840} INFO - DAG(s) 'predict_batch_dag' retrieved from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:33:16.929+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:33:16.929+0200] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-10-11T06:33:16.943+0200] {processor.py:183} INFO - Processing /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py took 0.615 seconds
+[2025-10-11T06:40:13.432+0200] {processor.py:161} INFO - Started process (PID=7935) to work on /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:40:13.433+0200] {processor.py:830} INFO - Processing file /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py for tasks to queue
+[2025-10-11T06:40:13.433+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:40:13.433+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:40:14.009+0200] {processor.py:840} INFO - DAG(s) 'predict_batch_dag' retrieved from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:40:14.120+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:40:14.120+0200] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-10-11T06:40:14.135+0200] {processor.py:183} INFO - Processing /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py took 0.704 seconds
+[2025-10-11T06:43:57.507+0200] {processor.py:161} INFO - Started process (PID=10401) to work on /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:43:57.508+0200] {processor.py:830} INFO - Processing file /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py for tasks to queue
+[2025-10-11T06:43:57.508+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:43:57.508+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:43:58.105+0200] {processor.py:840} INFO - DAG(s) 'predict_batch_dag' retrieved from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:43:58.268+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:43:58.267+0200] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-10-11T06:43:58.283+0200] {processor.py:183} INFO - Processing /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py took 0.776 seconds
+[2025-10-11T06:46:26.548+0200] {processor.py:161} INFO - Started process (PID=11973) to work on /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:46:26.548+0200] {processor.py:830} INFO - Processing file /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py for tasks to queue
+[2025-10-11T06:46:26.548+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:46:26.548+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:46:27.116+0200] {processor.py:840} INFO - DAG(s) 'predict_batch_dag' retrieved from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:46:27.297+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:46:27.297+0200] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-10-11T06:46:27.311+0200] {processor.py:183} INFO - Processing /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py took 0.764 seconds
+[2025-10-11T06:51:21.880+0200] {processor.py:161} INFO - Started process (PID=15031) to work on /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:51:21.881+0200] {processor.py:830} INFO - Processing file /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py for tasks to queue
+[2025-10-11T06:51:21.881+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:51:21.881+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:51:22.430+0200] {processor.py:840} INFO - DAG(s) 'predict_batch_dag' retrieved from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:51:22.610+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:51:22.610+0200] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-10-11T06:51:22.626+0200] {processor.py:183} INFO - Processing /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py took 0.746 seconds
+[2025-10-11T06:52:45.658+0200] {processor.py:161} INFO - Started process (PID=15950) to work on /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:52:45.659+0200] {processor.py:830} INFO - Processing file /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py for tasks to queue
+[2025-10-11T06:52:45.660+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:52:45.660+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:52:45.995+0200] {processor.py:840} INFO - DAG(s) 'predict_batch_dag' retrieved from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:52:46.147+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:52:46.147+0200] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-10-11T06:52:46.160+0200] {processor.py:183} INFO - Processing /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py took 0.502 seconds
+[2025-10-11T06:53:47.552+0200] {processor.py:161} INFO - Started process (PID=16553) to work on /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:53:47.552+0200] {processor.py:830} INFO - Processing file /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py for tasks to queue
+[2025-10-11T06:53:47.553+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:53:47.553+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:53:47.908+0200] {processor.py:840} INFO - DAG(s) 'predict_batch_dag' retrieved from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:53:48.322+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:53:48.321+0200] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-10-11T06:53:48.333+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:53:48.333+0200] {dag.py:3069} INFO - Creating ORM DAG for predict_batch_dag
+[2025-10-11T06:53:48.337+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:53:48.337+0200] {dag.py:3834} INFO - Setting next_dagrun for predict_batch_dag to 2025-10-11 04:53:40+00:00, run_after=2025-10-11 04:53:45+00:00
+[2025-10-11T06:53:48.475+0200] {processor.py:183} INFO - Processing /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py took 0.924 seconds
+[2025-10-11T06:54:51.087+0200] {processor.py:161} INFO - Started process (PID=17258) to work on /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:54:51.087+0200] {processor.py:830} INFO - Processing file /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py for tasks to queue
+[2025-10-11T06:54:51.088+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:54:51.088+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:54:51.413+0200] {processor.py:840} INFO - DAG(s) 'predict_batch_dag' retrieved from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:54:51.594+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:54:51.593+0200] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-10-11T06:54:51.602+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:54:51.602+0200] {dag.py:3834} INFO - Setting next_dagrun for predict_batch_dag to 2025-10-11 04:54:45+00:00, run_after=2025-10-11 04:54:50+00:00
+[2025-10-11T06:54:51.608+0200] {processor.py:183} INFO - Processing /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py took 0.522 seconds
+[2025-10-11T06:55:24.068+0200] {processor.py:161} INFO - Started process (PID=17668) to work on /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:55:24.070+0200] {processor.py:830} INFO - Processing file /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py for tasks to queue
+[2025-10-11T06:55:24.070+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:55:24.070+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:55:24.375+0200] {processor.py:840} INFO - DAG(s) 'predict_batch_dag' retrieved from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:55:24.581+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:55:24.580+0200] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-10-11T06:55:24.588+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:55:24.588+0200] {dag.py:3834} INFO - Setting next_dagrun for predict_batch_dag to 2025-10-11 04:55:15+00:00, run_after=2025-10-11 04:55:20+00:00
+[2025-10-11T06:55:24.595+0200] {processor.py:183} INFO - Processing /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py took 0.527 seconds
+[2025-10-11T06:55:56.225+0200] {processor.py:161} INFO - Started process (PID=17989) to work on /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:55:56.227+0200] {processor.py:830} INFO - Processing file /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py for tasks to queue
+[2025-10-11T06:55:56.227+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:55:56.227+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:55:56.609+0200] {processor.py:840} INFO - DAG(s) 'predict_batch_dag' retrieved from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:55:56.797+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:55:56.797+0200] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-10-11T06:55:56.804+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:55:56.804+0200] {dag.py:3834} INFO - Setting next_dagrun for predict_batch_dag to 2025-10-11 04:55:50+00:00, run_after=2025-10-11 04:55:55+00:00
+[2025-10-11T06:55:56.811+0200] {processor.py:183} INFO - Processing /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py took 0.587 seconds
+[2025-10-11T06:56:28.916+0200] {processor.py:161} INFO - Started process (PID=18311) to work on /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:56:28.917+0200] {processor.py:830} INFO - Processing file /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py for tasks to queue
+[2025-10-11T06:56:28.917+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:56:28.917+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:56:29.317+0200] {processor.py:840} INFO - DAG(s) 'predict_batch_dag' retrieved from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:56:29.674+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:56:29.674+0200] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-10-11T06:56:29.682+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:56:29.682+0200] {dag.py:3834} INFO - Setting next_dagrun for predict_batch_dag to 2025-10-11 04:56:20+00:00, run_after=2025-10-11 04:56:25+00:00
+[2025-10-11T06:56:29.689+0200] {processor.py:183} INFO - Processing /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py took 0.774 seconds
+[2025-10-11T06:57:02.148+0200] {processor.py:161} INFO - Started process (PID=18645) to work on /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:57:02.149+0200] {processor.py:830} INFO - Processing file /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py for tasks to queue
+[2025-10-11T06:57:02.149+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:57:02.149+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:57:02.725+0200] {processor.py:840} INFO - DAG(s) 'predict_batch_dag' retrieved from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:57:03.065+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:57:03.065+0200] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-10-11T06:57:03.073+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:57:03.072+0200] {dag.py:3834} INFO - Setting next_dagrun for predict_batch_dag to 2025-10-11 04:56:55+00:00, run_after=2025-10-11 04:57:00+00:00
+[2025-10-11T06:57:03.082+0200] {processor.py:183} INFO - Processing /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py took 0.935 seconds
+[2025-10-11T06:57:36.216+0200] {processor.py:161} INFO - Started process (PID=18978) to work on /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:57:36.217+0200] {processor.py:830} INFO - Processing file /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py for tasks to queue
+[2025-10-11T06:57:36.218+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:57:36.218+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:57:36.655+0200] {processor.py:840} INFO - DAG(s) 'predict_batch_dag' retrieved from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T06:57:37.068+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:57:37.068+0200] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-10-11T06:57:37.076+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:57:37.076+0200] {dag.py:3834} INFO - Setting next_dagrun for predict_batch_dag to 2025-10-11 04:57:30+00:00, run_after=2025-10-11 04:57:35+00:00
+[2025-10-11T06:57:37.085+0200] {processor.py:183} INFO - Processing /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py took 0.869 seconds
+[2025-10-11T07:03:29.910+0200] {processor.py:161} INFO - Started process (PID=22783) to work on /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T07:03:29.911+0200] {processor.py:830} INFO - Processing file /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py for tasks to queue
+[2025-10-11T07:03:29.911+0200] {logging_mixin.py:188} INFO - [2025-10-11T07:03:29.911+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T07:03:30.411+0200] {processor.py:840} INFO - DAG(s) 'predict_batch_dag' retrieved from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T07:03:30.693+0200] {logging_mixin.py:188} INFO - [2025-10-11T07:03:30.693+0200] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-10-11T07:03:30.707+0200] {processor.py:183} INFO - Processing /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py took 0.797 seconds
+[2025-10-11T07:05:03.799+0200] {processor.py:161} INFO - Started process (PID=23695) to work on /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T07:05:03.800+0200] {processor.py:830} INFO - Processing file /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py for tasks to queue
+[2025-10-11T07:05:03.800+0200] {logging_mixin.py:188} INFO - [2025-10-11T07:05:03.800+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T07:05:04.184+0200] {processor.py:840} INFO - DAG(s) 'predict_batch_dag' retrieved from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T07:05:04.442+0200] {logging_mixin.py:188} INFO - [2025-10-11T07:05:04.442+0200] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-10-11T07:05:04.456+0200] {processor.py:183} INFO - Processing /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py took 0.658 seconds
+[2025-10-11T07:10:14.159+0200] {processor.py:161} INFO - Started process (PID=26999) to work on /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T07:10:14.159+0200] {processor.py:830} INFO - Processing file /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py for tasks to queue
+[2025-10-11T07:10:14.159+0200] {logging_mixin.py:188} INFO - [2025-10-11T07:10:14.159+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T07:10:14.538+0200] {processor.py:840} INFO - DAG(s) 'predict_batch_dag' retrieved from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T07:10:14.978+0200] {logging_mixin.py:188} INFO - [2025-10-11T07:10:14.978+0200] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-10-11T07:10:14.993+0200] {processor.py:183} INFO - Processing /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py took 0.835 seconds
+[2025-10-11T07:11:49.190+0200] {processor.py:161} INFO - Started process (PID=28029) to work on /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T07:11:49.191+0200] {processor.py:830} INFO - Processing file /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py for tasks to queue
+[2025-10-11T07:11:49.191+0200] {logging_mixin.py:188} INFO - [2025-10-11T07:11:49.191+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T07:11:49.592+0200] {processor.py:840} INFO - DAG(s) 'predict_batch_dag' retrieved from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T07:11:49.782+0200] {logging_mixin.py:188} INFO - [2025-10-11T07:11:49.782+0200] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-10-11T07:11:49.796+0200] {processor.py:183} INFO - Processing /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py took 0.607 seconds
+[2025-10-11T07:14:06.665+0200] {processor.py:161} INFO - Started process (PID=29473) to work on /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T07:14:06.666+0200] {processor.py:830} INFO - Processing file /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py for tasks to queue
+[2025-10-11T07:14:06.666+0200] {logging_mixin.py:188} INFO - [2025-10-11T07:14:06.666+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T07:14:07.248+0200] {processor.py:840} INFO - DAG(s) 'predict_batch_dag' retrieved from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T07:14:07.465+0200] {logging_mixin.py:188} INFO - [2025-10-11T07:14:07.465+0200] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-10-11T07:14:07.501+0200] {processor.py:183} INFO - Processing /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py took 0.836 seconds
+[2025-10-11T07:15:00.996+0200] {processor.py:161} INFO - Started process (PID=30057) to work on /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T07:15:00.997+0200] {processor.py:830} INFO - Processing file /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py for tasks to queue
+[2025-10-11T07:15:00.997+0200] {logging_mixin.py:188} INFO - [2025-10-11T07:15:00.997+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T07:15:01.521+0200] {processor.py:840} INFO - DAG(s) 'predict_batch_dag' retrieved from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T07:15:01.884+0200] {logging_mixin.py:188} INFO - [2025-10-11T07:15:01.884+0200] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-10-11T07:15:01.900+0200] {processor.py:183} INFO - Processing /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py took 0.905 seconds
+[2025-10-11T07:22:06.644+0200] {processor.py:161} INFO - Started process (PID=34323) to work on /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T07:22:06.645+0200] {processor.py:830} INFO - Processing file /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py for tasks to queue
+[2025-10-11T07:22:06.645+0200] {logging_mixin.py:188} INFO - [2025-10-11T07:22:06.645+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T07:22:07.098+0200] {processor.py:840} INFO - DAG(s) 'predict_batch_dag' retrieved from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T07:22:07.453+0200] {logging_mixin.py:188} INFO - [2025-10-11T07:22:07.453+0200] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-10-11T07:22:07.456+0200] {logging_mixin.py:188} INFO - [2025-10-11T07:22:07.456+0200] {dag.py:3069} INFO - Creating ORM DAG for predict_batch_dag
+[2025-10-11T07:22:07.460+0200] {logging_mixin.py:188} INFO - [2025-10-11T07:22:07.460+0200] {dag.py:3834} INFO - Setting next_dagrun for predict_batch_dag to 2025-10-11 05:22:00+00:00, run_after=2025-10-11 05:22:05+00:00
+[2025-10-11T07:22:07.682+0200] {processor.py:183} INFO - Processing /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py took 1.038 seconds
+[2025-10-11T07:22:40.239+0200] {processor.py:161} INFO - Started process (PID=34772) to work on /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T07:22:40.240+0200] {processor.py:830} INFO - Processing file /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py for tasks to queue
+[2025-10-11T07:22:40.240+0200] {logging_mixin.py:188} INFO - [2025-10-11T07:22:40.240+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T07:22:40.699+0200] {processor.py:840} INFO - DAG(s) 'predict_batch_dag' retrieved from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T07:22:40.966+0200] {logging_mixin.py:188} INFO - [2025-10-11T07:22:40.966+0200] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-10-11T07:22:40.973+0200] {logging_mixin.py:188} INFO - [2025-10-11T07:22:40.973+0200] {dag.py:3834} INFO - Setting next_dagrun for predict_batch_dag to 2025-10-11 05:22:35+00:00, run_after=2025-10-11 05:22:40+00:00
+[2025-10-11T07:22:40.980+0200] {processor.py:183} INFO - Processing /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py took 0.742 seconds
+[2025-10-11T07:37:54.941+0200] {processor.py:161} INFO - Started process (PID=44039) to work on /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T07:37:54.942+0200] {processor.py:830} INFO - Processing file /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py for tasks to queue
+[2025-10-11T07:37:54.942+0200] {logging_mixin.py:188} INFO - [2025-10-11T07:37:54.942+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T07:37:55.401+0200] {processor.py:840} INFO - DAG(s) 'predict_batch_dag' retrieved from /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py
+[2025-10-11T07:37:55.743+0200] {logging_mixin.py:188} INFO - [2025-10-11T07:37:55.743+0200] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-10-11T07:37:55.757+0200] {processor.py:183} INFO - Processing /Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py took 0.816 seconds

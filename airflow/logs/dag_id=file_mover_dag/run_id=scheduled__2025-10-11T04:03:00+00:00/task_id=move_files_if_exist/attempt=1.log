@@ -1,0 +1,14 @@
+[2025-10-11T06:04:03.306+0200] {taskinstance.py:1979} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: file_mover_dag.move_files_if_exist scheduled__2025-10-11T04:03:00+00:00 [queued]>
+[2025-10-11T06:04:03.310+0200] {taskinstance.py:1979} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: file_mover_dag.move_files_if_exist scheduled__2025-10-11T04:03:00+00:00 [queued]>
+[2025-10-11T06:04:03.310+0200] {taskinstance.py:2193} INFO - Starting attempt 1 of 1
+[2025-10-11T06:04:03.314+0200] {taskinstance.py:2214} INFO - Executing <Task(_PythonDecoratedOperator): move_files_if_exist> on 2025-10-11 04:03:00+00:00
+[2025-10-11T06:04:03.317+0200] {standard_task_runner.py:60} INFO - Started process 84364 to run task
+[2025-10-11T06:04:03.323+0200] {standard_task_runner.py:87} INFO - Running: ['airflow', 'tasks', 'run', 'file_mover_dag', 'move_files_if_exist', 'scheduled__2025-10-11T04:03:00+00:00', '--job-id', '150', '--raw', '--subdir', 'DAGS_FOLDER/ingestion_dag.py', '--cfg-path', '/var/folders/rp/syznybx160jd0kg9k7r_sj8w0000gn/T/tmpofzduwb8']
+[2025-10-11T06:04:03.325+0200] {standard_task_runner.py:88} INFO - Job 150: Subtask move_files_if_exist
+[2025-10-11T06:04:03.346+0200] {task_command.py:423} INFO - Running <TaskInstance: file_mover_dag.move_files_if_exist scheduled__2025-10-11T04:03:00+00:00 [running]> on host ebots-macbook-pro.local
+[2025-10-11T06:04:03.372+0200] {taskinstance.py:2510} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='file_mover_dag' AIRFLOW_CTX_TASK_ID='move_files_if_exist' AIRFLOW_CTX_EXECUTION_DATE='2025-10-11T04:03:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2025-10-11T04:03:00+00:00'
+[2025-10-11T06:04:03.373+0200] {ingestion_dag.py:31} INFO - No files to move.
+[2025-10-11T06:04:03.373+0200] {python.py:202} INFO - Done. Returned value was: None
+[2025-10-11T06:04:03.375+0200] {taskinstance.py:1149} INFO - Marking task as SUCCESS. dag_id=file_mover_dag, task_id=move_files_if_exist, execution_date=20251011T040300, start_date=20251011T040403, end_date=20251011T040403
+[2025-10-11T06:04:03.381+0200] {local_task_job_runner.py:234} INFO - Task exited with return code 0
+[2025-10-11T06:04:03.389+0200] {taskinstance.py:3309} INFO - 0 downstream tasks scheduled from follow-on schedule check

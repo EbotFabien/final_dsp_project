@@ -1,0 +1,1941 @@
+[2025-10-10T15:28:44.352+0200] {manager.py:469} INFO - Processing files using up to 1 processes at a time 
+[2025-10-10T15:28:44.352+0200] {manager.py:470} INFO - Process each file at most once every 30 seconds
+[2025-10-10T15:28:44.352+0200] {manager.py:471} INFO - Checking for new files in /Users/ebotfabien/Desktop/school/air_new/dags every 300 seconds
+[2025-10-10T15:28:44.352+0200] {manager.py:738} INFO - Searching for files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-10T15:28:44.353+0200] {manager.py:741} INFO - There are 1 files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-10T15:28:45.326+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                           1           0  0.91s           2025-10-10T13:28:45
+================================================================================
+[2025-10-10T15:29:17.460+0200] {manager.py:451} INFO - Exiting gracefully upon receiving signal 15
+[2025-10-10T15:33:09.241+0200] {manager.py:469} INFO - Processing files using up to 1 processes at a time 
+[2025-10-10T15:33:09.241+0200] {manager.py:470} INFO - Process each file at most once every 30 seconds
+[2025-10-10T15:33:09.241+0200] {manager.py:471} INFO - Checking for new files in /Users/ebotfabien/Desktop/school/air_new/dags every 300 seconds
+[2025-10-10T15:33:09.241+0200] {manager.py:738} INFO - Searching for files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-10T15:33:09.243+0200] {manager.py:741} INFO - There are 1 files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-10T15:33:09.991+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                           1           0  0.68s           2025-10-10T13:33:09
+================================================================================
+[2025-10-10T15:33:41.933+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                           1           0  1.00s           2025-10-10T13:33:41
+================================================================================
+[2025-10-10T15:34:13.468+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                           1           0  1.15s           2025-10-10T13:34:13
+================================================================================
+[2025-10-10T15:34:44.626+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                           1           0  1.06s           2025-10-10T13:34:44
+================================================================================
+[2025-10-10T15:35:15.903+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                           1           0  1.01s           2025-10-10T13:35:15
+================================================================================
+[2025-10-10T15:35:47.179+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                           1           0  1.00s           2025-10-10T13:35:47
+================================================================================
+[2025-10-10T15:36:18.422+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                           1           0  1.00s           2025-10-10T13:36:18
+================================================================================
+[2025-10-10T15:36:51.644+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                           1           0  2.86s           2025-10-10T13:36:51
+================================================================================
+[2025-10-10T15:37:09.281+0200] {manager.py:451} INFO - Exiting gracefully upon receiving signal 15
+[2025-10-10T15:52:58.849+0200] {manager.py:469} INFO - Processing files using up to 1 processes at a time 
+[2025-10-10T15:52:58.849+0200] {manager.py:470} INFO - Process each file at most once every 30 seconds
+[2025-10-10T15:52:58.849+0200] {manager.py:471} INFO - Checking for new files in /Users/ebotfabien/Desktop/school/air_new/dags every 300 seconds
+[2025-10-10T15:52:58.849+0200] {manager.py:738} INFO - Searching for files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-10T15:52:58.852+0200] {manager.py:741} INFO - There are 2 files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-10T15:52:59.642+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                           1           0  0.72s           2025-10-10T13:52:59
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                    0           0
+================================================================================
+[2025-10-10T15:53:02.132+0200] {manager.py:451} INFO - Exiting gracefully upon receiving signal 15
+[2025-10-10T15:56:20.756+0200] {manager.py:469} INFO - Processing files using up to 1 processes at a time 
+[2025-10-10T15:56:20.756+0200] {manager.py:470} INFO - Process each file at most once every 30 seconds
+[2025-10-10T15:56:20.756+0200] {manager.py:471} INFO - Checking for new files in /Users/ebotfabien/Desktop/school/air_new/dags every 300 seconds
+[2025-10-10T15:56:20.756+0200] {manager.py:738} INFO - Searching for files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-10T15:56:20.758+0200] {manager.py:741} INFO - There are 2 files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-10T15:56:21.579+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                           1           0  0.75s           2025-10-10T13:56:21
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                    0           0
+================================================================================
+[2025-10-10T15:56:37.223+0200] {manager.py:451} INFO - Exiting gracefully upon receiving signal 15
+[2025-10-10T20:30:36.936+0200] {manager.py:469} INFO - Processing files using up to 1 processes at a time 
+[2025-10-10T20:30:36.938+0200] {manager.py:470} INFO - Process each file at most once every 30 seconds
+[2025-10-10T20:30:36.938+0200] {manager.py:471} INFO - Checking for new files in /Users/ebotfabien/Desktop/school/air_new/dags every 300 seconds
+[2025-10-10T20:30:36.938+0200] {manager.py:738} INFO - Searching for files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-10T20:30:36.967+0200] {manager.py:741} INFO - There are 3 files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-10T20:30:37.710+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           0           1  0.66s           2025-10-10T18:30:37
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            0           0
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     0           0
+================================================================================
+[2025-10-10T20:31:09.638+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           0           1  0.99s           2025-10-10T18:31:09
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.76s           2025-10-10T18:30:39
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.73s           2025-10-10T18:30:41
+================================================================================
+[2025-10-10T20:31:41.347+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           0           1  0.95s           2025-10-10T18:31:41
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.73s           2025-10-10T18:31:11
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.68s           2025-10-10T18:31:13
+================================================================================
+[2025-10-10T20:32:11.424+0200] {manager.py:451} INFO - Exiting gracefully upon receiving signal 15
+[2025-10-10T20:36:13.777+0200] {manager.py:469} INFO - Processing files using up to 1 processes at a time 
+[2025-10-10T20:36:13.778+0200] {manager.py:470} INFO - Process each file at most once every 30 seconds
+[2025-10-10T20:36:13.778+0200] {manager.py:471} INFO - Checking for new files in /Users/ebotfabien/Desktop/school/air_new/dags every 300 seconds
+[2025-10-10T20:36:13.778+0200] {manager.py:738} INFO - Searching for files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-10T20:36:13.780+0200] {manager.py:741} INFO - There are 3 files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-10T20:36:14.499+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.65s           2025-10-10T18:36:14
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     0           0
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           0           0
+================================================================================
+[2025-10-10T20:36:22.665+0200] {manager.py:451} INFO - Exiting gracefully upon receiving signal 15
+[2025-10-10T20:38:34.621+0200] {manager.py:469} INFO - Processing files using up to 1 processes at a time 
+[2025-10-10T20:38:34.622+0200] {manager.py:470} INFO - Process each file at most once every 30 seconds
+[2025-10-10T20:38:34.622+0200] {manager.py:471} INFO - Checking for new files in /Users/ebotfabien/Desktop/school/air_new/dags every 300 seconds
+[2025-10-10T20:38:34.622+0200] {manager.py:738} INFO - Searching for files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-10T20:38:34.624+0200] {manager.py:741} INFO - There are 3 files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-10T20:38:35.341+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.66s           2025-10-10T18:38:35
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     0           0
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           0           0
+================================================================================
+[2025-10-10T20:38:45.511+0200] {manager.py:451} INFO - Exiting gracefully upon receiving signal 15
+[2025-10-10T20:42:45.420+0200] {manager.py:469} INFO - Processing files using up to 1 processes at a time 
+[2025-10-10T20:42:45.421+0200] {manager.py:470} INFO - Process each file at most once every 30 seconds
+[2025-10-10T20:42:45.421+0200] {manager.py:471} INFO - Checking for new files in /Users/ebotfabien/Desktop/school/air_new/dags every 300 seconds
+[2025-10-10T20:42:45.421+0200] {manager.py:738} INFO - Searching for files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-10T20:42:45.424+0200] {manager.py:741} INFO - There are 3 files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-10T20:42:46.230+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  0.74s           2025-10-10T18:42:46
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            0           0
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     0           0
+================================================================================
+[2025-10-10T20:43:18.414+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.14s           2025-10-10T18:43:18
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.81s           2025-10-10T18:42:49
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.72s           2025-10-10T18:42:47
+================================================================================
+[2025-10-10T20:43:44.829+0200] {manager.py:451} INFO - Exiting gracefully upon receiving signal 15
+[2025-10-10T20:44:21.833+0200] {manager.py:469} INFO - Processing files using up to 1 processes at a time 
+[2025-10-10T20:44:21.833+0200] {manager.py:470} INFO - Process each file at most once every 30 seconds
+[2025-10-10T20:44:21.834+0200] {manager.py:471} INFO - Checking for new files in /Users/ebotfabien/Desktop/school/air_new/dags every 300 seconds
+[2025-10-10T20:44:21.834+0200] {manager.py:738} INFO - Searching for files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-10T20:44:21.837+0200] {manager.py:741} INFO - There are 3 files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-10T20:44:22.623+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  0.72s           2025-10-10T18:44:22
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            0           0
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     0           0
+================================================================================
+[2025-10-10T20:44:54.581+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.05s           2025-10-10T18:44:54
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.73s           2025-10-10T18:44:24
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.73s           2025-10-10T18:44:26
+================================================================================
+[2025-10-10T20:45:26.604+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.06s           2025-10-10T18:45:26
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.67s           2025-10-10T18:44:57
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.66s           2025-10-10T18:44:56
+================================================================================
+[2025-10-10T20:45:58.667+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.03s           2025-10-10T18:45:58
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  1.01s           2025-10-10T18:45:30
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.78s           2025-10-10T18:45:28
+================================================================================
+[2025-10-10T20:46:30.024+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.10s           2025-10-10T18:46:30
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.71s           2025-10-10T18:46:02
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.70s           2025-10-10T18:46:00
+================================================================================
+[2025-10-10T20:47:00.318+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  2.51s           2025-10-10T18:46:49
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.72s           2025-10-10T18:46:33
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.67s           2025-10-10T18:46:31
+================================================================================
+[2025-10-10T20:47:31.247+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.46s           2025-10-10T18:47:21
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.89s           2025-10-10T18:47:03
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.75s           2025-10-10T18:47:05
+================================================================================
+[2025-10-10T20:48:01.557+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.28s           2025-10-10T18:47:53
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  1.00s           2025-10-10T18:47:34
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.69s           2025-10-10T18:47:36
+================================================================================
+[2025-10-10T20:48:31.922+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.36s           2025-10-10T18:48:24
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.69s           2025-10-10T18:48:05
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.68s           2025-10-10T18:48:07
+================================================================================
+[2025-10-10T20:49:02.196+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.26s           2025-10-10T18:48:56
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  1.12s           2025-10-10T18:48:36
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.95s           2025-10-10T18:48:38
+================================================================================
+[2025-10-10T20:49:22.064+0200] {manager.py:738} INFO - Searching for files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-10T20:49:22.074+0200] {manager.py:741} INFO - There are 3 files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-10T20:49:32.273+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.25s           2025-10-10T18:49:27
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.98s           2025-10-10T18:49:07
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.74s           2025-10-10T18:49:09
+================================================================================
+[2025-10-10T20:50:03.164+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.27s           2025-10-10T18:49:58
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.94s           2025-10-10T18:49:39
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.69s           2025-10-10T18:49:40
+================================================================================
+[2025-10-10T20:50:33.382+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.41s           2025-10-10T18:50:30
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.74s           2025-10-10T18:50:09
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.68s           2025-10-10T18:50:11
+================================================================================
+[2025-10-10T20:51:03.659+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.86s           2025-10-10T18:51:02
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.95s           2025-10-10T18:50:41
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.67s           2025-10-10T18:50:42
+================================================================================
+[2025-10-10T20:51:34.177+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.36s           2025-10-10T18:51:34
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.95s           2025-10-10T18:51:12
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.70s           2025-10-10T18:51:14
+================================================================================
+[2025-10-10T20:52:05.355+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.09s           2025-10-10T18:52:05
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  1.05s           2025-10-10T18:51:43
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.70s           2025-10-10T18:51:45
+================================================================================
+[2025-10-10T20:52:37.873+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  2.43s           2025-10-10T18:52:37
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  1.09s           2025-10-10T18:52:15
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.75s           2025-10-10T18:52:17
+================================================================================
+[2025-10-10T20:53:09.206+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.25s           2025-10-10T18:53:09
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.96s           2025-10-10T18:52:47
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.71s           2025-10-10T18:52:48
+================================================================================
+[2025-10-10T20:53:40.866+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.57s           2025-10-10T18:53:40
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  1.03s           2025-10-10T18:53:18
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.70s           2025-10-10T18:53:19
+================================================================================
+[2025-10-10T20:54:12.211+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.24s           2025-10-10T18:54:12
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.99s           2025-10-10T18:53:50
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.98s           2025-10-10T18:53:51
+================================================================================
+[2025-10-10T20:54:22.316+0200] {manager.py:738} INFO - Searching for files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-10T20:54:22.325+0200] {manager.py:741} INFO - There are 3 files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-10T20:54:43.600+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.31s           2025-10-10T18:54:43
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.95s           2025-10-10T18:54:21
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.66s           2025-10-10T18:54:23
+================================================================================
+[2025-10-10T20:55:15.008+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.33s           2025-10-10T18:55:15
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.96s           2025-10-10T18:54:52
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.67s           2025-10-10T18:54:54
+================================================================================
+[2025-10-10T20:55:46.442+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.35s           2025-10-10T18:55:46
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.97s           2025-10-10T18:55:24
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.68s           2025-10-10T18:55:25
+================================================================================
+[2025-10-10T20:56:17.962+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.30s           2025-10-10T18:56:17
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.97s           2025-10-10T18:55:55
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.74s           2025-10-10T18:55:57
+================================================================================
+[2025-10-10T20:56:49.372+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.35s           2025-10-10T18:56:49
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.97s           2025-10-10T18:56:27
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.68s           2025-10-10T18:56:28
+================================================================================
+[2025-10-10T20:57:20.781+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.33s           2025-10-10T18:57:20
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  1.00s           2025-10-10T18:56:58
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.76s           2025-10-10T18:57:00
+================================================================================
+[2025-10-10T20:57:52.612+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.73s           2025-10-10T18:57:52
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  1.06s           2025-10-10T18:57:30
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.72s           2025-10-10T18:57:31
+================================================================================
+[2025-10-10T20:58:23.920+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.28s           2025-10-10T18:58:23
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  1.05s           2025-10-10T18:58:01
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.64s           2025-10-10T18:58:03
+================================================================================
+[2025-10-10T20:58:55.291+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.29s           2025-10-10T18:58:55
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.98s           2025-10-10T18:58:33
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.70s           2025-10-10T18:58:34
+================================================================================
+[2025-10-10T20:59:22.607+0200] {manager.py:738} INFO - Searching for files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-10T20:59:22.615+0200] {manager.py:741} INFO - There are 3 files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-10T20:59:26.837+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.46s           2025-10-10T18:59:26
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.74s           2025-10-10T18:59:06
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.74s           2025-10-10T18:59:04
+================================================================================
+[2025-10-10T20:59:58.221+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.29s           2025-10-10T18:59:58
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.96s           2025-10-10T18:59:35
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.94s           2025-10-10T18:59:37
+================================================================================
+[2025-10-10T21:00:29.852+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.52s           2025-10-10T19:00:29
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.69s           2025-10-10T19:00:07
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.69s           2025-10-10T19:00:08
+================================================================================
+[2025-10-10T21:01:01.279+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.34s           2025-10-10T19:01:01
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.96s           2025-10-10T19:00:39
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.71s           2025-10-10T19:00:40
+================================================================================
+[2025-10-10T21:01:33.321+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.30s           2025-10-10T19:01:33
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.77s           2025-10-10T19:01:10
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.74s           2025-10-10T19:01:12
+================================================================================
+[2025-10-10T21:02:04.423+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  1.02s           2025-10-10T19:01:41
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.00s           2025-10-10T19:02:04
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.72s           2025-10-10T19:01:43
+================================================================================
+[2025-10-10T21:02:35.886+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.37s           2025-10-10T19:02:35
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.76s           2025-10-10T19:02:12
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.74s           2025-10-10T19:02:14
+================================================================================
+[2025-10-10T21:03:07.157+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.17s           2025-10-10T19:03:07
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  1.01s           2025-10-10T19:02:44
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.75s           2025-10-10T19:02:45
+================================================================================
+[2025-10-10T21:03:38.584+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.34s           2025-10-10T19:03:38
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  1.00s           2025-10-10T19:03:15
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.71s           2025-10-10T19:03:17
+================================================================================
+[2025-10-10T21:17:04.410+0200] {manager.py:738} INFO - Searching for files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-10T21:17:04.414+0200] {manager.py:741} INFO - There are 3 files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-10T21:23:05.811+0200] {manager.py:738} INFO - Searching for files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-10T21:23:05.836+0200] {manager.py:741} INFO - There are 3 files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-10T21:23:10.667+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.78s           2025-10-10T19:23:07
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.68s           2025-10-10T19:23:09
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.66s           2025-10-10T19:23:10
+================================================================================
+[2025-10-10T21:27:14.335+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.64s           2025-10-10T19:26:48
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.63s           2025-10-10T19:26:51
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.63s           2025-10-10T19:26:50
+================================================================================
+[2025-10-10T21:33:04.653+0200] {manager.py:738} INFO - Searching for files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-10T21:33:04.655+0200] {manager.py:741} INFO - There are 3 files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-10T21:50:05.698+0200] {manager.py:738} INFO - Searching for files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-10T21:50:05.811+0200] {manager.py:741} INFO - There are 3 files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-10T21:50:16.866+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.65s           2025-10-10T19:50:07
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.79s           2025-10-10T19:50:10
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.74s           2025-10-10T19:50:09
+================================================================================
+[2025-10-10T22:08:18.279+0200] {manager.py:738} INFO - Searching for files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-10T22:08:18.341+0200] {manager.py:741} INFO - There are 3 files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-10T22:09:49.397+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.34s           2025-10-10T20:09:41
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.74s           2025-10-10T20:09:45
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.74s           2025-10-10T20:09:43
+================================================================================
+[2025-10-10T22:14:32.996+0200] {manager.py:738} INFO - Searching for files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-10T22:14:32.999+0200] {manager.py:741} INFO - There are 3 files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-10T22:14:37.234+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  259.64s         2025-10-10T20:14:32
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.69s           2025-10-10T20:14:35
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.68s           2025-10-10T20:14:33
+================================================================================
+[2025-10-10T22:16:40.693+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.08s           2025-10-10T20:16:13
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.73s           2025-10-10T20:16:15
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.72s           2025-10-10T20:16:16
+================================================================================
+[2025-10-10T22:24:45.274+0200] {manager.py:738} INFO - Searching for files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-10T22:24:45.278+0200] {manager.py:741} INFO - There are 3 files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-10T22:24:53.330+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.06s           2025-10-10T20:24:46
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.73s           2025-10-10T20:24:49
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.71s           2025-10-10T20:24:48
+================================================================================
+[2025-10-10T22:43:40.123+0200] {manager.py:738} INFO - Searching for files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-10T22:43:40.128+0200] {manager.py:741} INFO - There are 3 files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-10T22:43:41.574+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.44s           2025-10-10T20:43:41
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.78s           2025-10-10T20:26:58
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.77s           2025-10-10T20:26:59
+================================================================================
+[2025-10-10T22:53:52.693+0200] {manager.py:738} INFO - Searching for files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-10T22:53:52.696+0200] {manager.py:741} INFO - There are 3 files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-10T22:55:58.747+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.66s           2025-10-10T20:55:47
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.85s           2025-10-10T20:55:49
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.74s           2025-10-10T20:55:50
+================================================================================
+[2025-10-10T22:56:28.902+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  5.59s           2025-10-10T20:56:23
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  1.25s           2025-10-10T20:56:25
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.77s           2025-10-10T20:56:27
+================================================================================
+[2025-10-10T22:56:58.992+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.54s           2025-10-10T20:56:54
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.70s           2025-10-10T20:56:56
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.67s           2025-10-10T20:56:58
+================================================================================
+[2025-10-10T22:57:29.819+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.39s           2025-10-10T20:57:26
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.74s           2025-10-10T20:57:29
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.66s           2025-10-10T20:57:28
+================================================================================
+[2025-10-10T22:58:00.529+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  3.92s           2025-10-10T20:58:00
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.74s           2025-10-10T20:57:29
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.66s           2025-10-10T20:57:28
+================================================================================
+[2025-10-10T22:58:32.045+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.41s           2025-10-10T20:58:32
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.99s           2025-10-10T20:58:02
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.64s           2025-10-10T20:58:04
+================================================================================
+[2025-10-10T22:58:53.296+0200] {manager.py:738} INFO - Searching for files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-10T22:58:53.312+0200] {manager.py:741} INFO - There are 3 files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-10T22:59:03.600+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  0.94s           2025-10-10T20:59:03
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.68s           2025-10-10T20:58:33
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.67s           2025-10-10T20:58:35
+================================================================================
+[2025-10-10T22:59:35.298+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.39s           2025-10-10T20:59:35
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.68s           2025-10-10T20:59:07
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.67s           2025-10-10T20:59:05
+================================================================================
+[2025-10-10T23:00:07.326+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.09s           2025-10-10T21:00:07
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  1.01s           2025-10-10T20:59:38
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.71s           2025-10-10T20:59:37
+================================================================================
+[2025-10-10T23:00:39.560+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.34s           2025-10-10T21:00:39
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.78s           2025-10-10T21:00:09
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.63s           2025-10-10T21:00:09
+================================================================================
+[2025-10-10T23:01:11.865+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.30s           2025-10-10T21:01:11
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  1.05s           2025-10-10T21:00:41
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.81s           2025-10-10T21:00:43
+================================================================================
+[2025-10-10T23:01:44.006+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.47s           2025-10-10T21:01:44
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.69s           2025-10-10T21:01:14
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.67s           2025-10-10T21:01:13
+================================================================================
+[2025-10-10T23:02:15.437+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.33s           2025-10-10T21:02:15
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.95s           2025-10-10T21:01:46
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.73s           2025-10-10T21:01:47
+================================================================================
+[2025-10-10T23:02:46.940+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.38s           2025-10-10T21:02:46
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  1.08s           2025-10-10T21:02:17
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.68s           2025-10-10T21:02:18
+================================================================================
+[2025-10-10T23:03:18.365+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.31s           2025-10-10T21:03:18
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.69s           2025-10-10T21:02:48
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.65s           2025-10-10T21:02:49
+================================================================================
+[2025-10-10T23:03:49.822+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.35s           2025-10-10T21:03:49
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.67s           2025-10-10T21:03:20
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.66s           2025-10-10T21:03:21
+================================================================================
+[2025-10-10T23:03:53.640+0200] {manager.py:738} INFO - Searching for files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-10T23:03:53.645+0200] {manager.py:741} INFO - There are 3 files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-10T23:04:21.298+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.36s           2025-10-10T21:04:21
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.75s           2025-10-10T21:03:52
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.64s           2025-10-10T21:04:03
+================================================================================
+[2025-10-10T23:04:52.677+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.30s           2025-10-10T21:04:52
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.95s           2025-10-10T21:04:35
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.68s           2025-10-10T21:04:24
+================================================================================
+[2025-10-10T23:05:24.081+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.32s           2025-10-10T21:05:24
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.68s           2025-10-10T21:04:55
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.68s           2025-10-10T21:05:06
+================================================================================
+[2025-10-10T23:05:55.494+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.33s           2025-10-10T21:05:55
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.93s           2025-10-10T21:05:38
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.70s           2025-10-10T21:05:26
+================================================================================
+[2025-10-10T23:06:26.914+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.32s           2025-10-10T21:06:26
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.70s           2025-10-10T21:06:09
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.69s           2025-10-10T21:05:58
+================================================================================
+[2025-10-10T23:06:58.335+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.34s           2025-10-10T21:06:58
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.95s           2025-10-10T21:06:41
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.66s           2025-10-10T21:06:29
+================================================================================
+[2025-10-10T23:07:29.932+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.50s           2025-10-10T21:07:29
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.98s           2025-10-10T21:07:01
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.85s           2025-10-10T21:07:12
+================================================================================
+[2025-10-10T23:08:01.329+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.32s           2025-10-10T21:08:01
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.98s           2025-10-10T21:07:44
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.95s           2025-10-10T21:07:32
+================================================================================
+[2025-10-10T23:08:33.237+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.36s           2025-10-10T21:08:33
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.95s           2025-10-10T21:08:15
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.70s           2025-10-10T21:08:04
+================================================================================
+[2025-10-10T23:08:54.391+0200] {manager.py:738} INFO - Searching for files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-10T23:08:54.399+0200] {manager.py:741} INFO - There are 3 files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-10T23:09:04.366+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.03s           2025-10-10T21:09:04
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  1.00s           2025-10-10T21:08:47
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.67s           2025-10-10T21:08:34
+================================================================================
+[2025-10-10T23:09:35.721+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.26s           2025-10-10T21:09:35
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  1.02s           2025-10-10T21:09:18
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.73s           2025-10-10T21:09:06
+================================================================================
+[2025-10-10T23:10:06.794+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  0.99s           2025-10-10T21:10:06
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.96s           2025-10-10T21:09:49
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.71s           2025-10-10T21:09:37
+================================================================================
+[2025-10-10T23:10:38.235+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.35s           2025-10-10T21:10:38
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  1.05s           2025-10-10T21:10:21
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.70s           2025-10-10T21:10:08
+================================================================================
+[2025-10-10T23:11:09.757+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.43s           2025-10-10T21:11:09
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  1.17s           2025-10-10T21:10:52
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.69s           2025-10-10T21:10:39
+================================================================================
+[2025-10-10T23:11:41.145+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.29s           2025-10-10T21:11:41
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.97s           2025-10-10T21:11:24
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.71s           2025-10-10T21:11:11
+================================================================================
+[2025-10-10T23:12:11.211+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.03s           2025-10-10T21:12:10
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.69s           2025-10-10T21:11:42
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.66s           2025-10-10T21:11:55
+================================================================================
+[2025-10-10T23:12:41.714+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.31s           2025-10-10T21:12:25
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.69s           2025-10-10T21:12:26
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.69s           2025-10-10T21:12:14
+================================================================================
+[2025-10-10T23:13:12.365+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.26s           2025-10-10T21:12:58
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  1.03s           2025-10-10T21:12:45
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.68s           2025-10-10T21:12:59
+================================================================================
+[2025-10-10T23:13:42.719+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.31s           2025-10-10T21:13:29
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  1.24s           2025-10-10T21:13:17
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.67s           2025-10-10T21:13:31
+================================================================================
+[2025-10-10T23:13:54.729+0200] {manager.py:738} INFO - Searching for files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-10T23:13:54.736+0200] {manager.py:741} INFO - There are 3 files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-10T23:14:13.059+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.30s           2025-10-10T21:14:00
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  1.00s           2025-10-10T21:13:48
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.91s           2025-10-10T21:14:02
+================================================================================
+[2025-10-10T23:14:43.551+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.44s           2025-10-10T21:14:32
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.95s           2025-10-10T21:14:20
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.69s           2025-10-10T21:14:34
+================================================================================
+[2025-10-10T23:15:14.051+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.98s           2025-10-10T21:14:51
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  0.95s           2025-10-10T21:15:03
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.69s           2025-10-10T21:15:04
+================================================================================
+[2025-10-10T23:15:44.385+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.29s           2025-10-10T21:15:35
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.97s           2025-10-10T21:15:23
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.68s           2025-10-10T21:15:37
+================================================================================
+[2025-10-10T23:16:14.535+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.01s           2025-10-10T21:16:06
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.96s           2025-10-10T21:15:54
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.90s           2025-10-10T21:16:08
+================================================================================
+[2025-10-10T23:16:44.916+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.45s           2025-10-10T21:16:38
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  1.12s           2025-10-10T21:16:25
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.72s           2025-10-10T21:16:39
+================================================================================
+[2025-10-10T23:17:15.178+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  1.99s           2025-10-10T21:16:57
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.20s           2025-10-10T21:17:09
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.75s           2025-10-10T21:17:11
+================================================================================
+[2025-10-10T23:17:45.489+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.36s           2025-10-10T21:17:41
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  1.04s           2025-10-10T21:17:29
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.71s           2025-10-10T21:17:42
+================================================================================
+[2025-10-10T23:18:15.815+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.54s           2025-10-10T21:18:13
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  1.08s           2025-10-10T21:18:00
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.79s           2025-10-10T21:18:15
+================================================================================
+[2025-10-10T23:18:46.526+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.28s           2025-10-10T21:18:44
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.98s           2025-10-10T21:18:31
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.66s           2025-10-10T21:18:46
+================================================================================
+[2025-10-10T23:18:54.866+0200] {manager.py:738} INFO - Searching for files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-10T23:18:54.872+0200] {manager.py:741} INFO - There are 3 files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-10T23:19:17.960+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.27s           2025-10-10T21:19:16
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  0.71s           2025-10-10T21:19:03
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.69s           2025-10-10T21:19:17
+================================================================================
+[2025-10-10T23:19:49.153+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.41s           2025-10-10T21:19:47
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  1.00s           2025-10-10T21:19:34
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.92s           2025-10-10T21:19:49
+================================================================================
+[2025-10-10T23:27:27.269+0200] {manager.py:469} INFO - Processing files using up to 1 processes at a time 
+[2025-10-10T23:27:27.270+0200] {manager.py:470} INFO - Process each file at most once every 30 seconds
+[2025-10-10T23:27:27.270+0200] {manager.py:471} INFO - Checking for new files in /Users/ebotfabien/Desktop/school/air_new/dags every 300 seconds
+[2025-10-10T23:27:27.270+0200] {manager.py:738} INFO - Searching for files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-10T23:27:27.273+0200] {manager.py:741} INFO - There are 3 files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-10T23:27:28.425+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.08s           2025-10-10T21:27:28
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            0           0
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     0           0
+================================================================================
+[2025-10-10T23:28:32.336+0200] {manager.py:451} INFO - Exiting gracefully upon receiving signal 15
+[2025-10-10T23:28:33.727+0200] {manager.py:469} INFO - Processing files using up to 1 processes at a time 
+[2025-10-10T23:28:33.727+0200] {manager.py:470} INFO - Process each file at most once every 30 seconds
+[2025-10-10T23:28:33.727+0200] {manager.py:471} INFO - Checking for new files in /Users/ebotfabien/Desktop/school/air_new/dags every 300 seconds
+[2025-10-10T23:28:33.728+0200] {manager.py:738} INFO - Searching for files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-10T23:28:33.730+0200] {manager.py:741} INFO - There are 3 files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-10T23:28:34.860+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.06s           2025-10-10T21:28:34
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            0           0
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     0           0
+================================================================================
+[2025-10-10T23:35:58.661+0200] {manager.py:469} INFO - Processing files using up to 1 processes at a time 
+[2025-10-10T23:35:58.662+0200] {manager.py:470} INFO - Process each file at most once every 30 seconds
+[2025-10-10T23:35:58.662+0200] {manager.py:471} INFO - Checking for new files in /Users/ebotfabien/Desktop/school/air_new/dags every 300 seconds
+[2025-10-10T23:35:58.663+0200] {manager.py:738} INFO - Searching for files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-10T23:35:58.666+0200] {manager.py:741} INFO - There are 3 files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-10T23:35:59.794+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.06s           2025-10-10T21:35:59
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            0           0
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     0           0
+================================================================================
+[2025-10-10T23:36:21.293+0200] {manager.py:451} INFO - Exiting gracefully upon receiving signal 15
+[2025-10-10T23:37:17.780+0200] {manager.py:451} INFO - Exiting gracefully upon receiving signal 15
+[2025-10-10T23:37:17.802+0200] {manager.py:451} INFO - Exiting gracefully upon receiving signal 15
+[2025-10-10T23:37:42.873+0200] {manager.py:469} INFO - Processing files using up to 1 processes at a time 
+[2025-10-10T23:37:42.873+0200] {manager.py:470} INFO - Process each file at most once every 30 seconds
+[2025-10-10T23:37:42.873+0200] {manager.py:471} INFO - Checking for new files in /Users/ebotfabien/Desktop/school/air_new/dags every 300 seconds
+[2025-10-10T23:37:42.873+0200] {manager.py:738} INFO - Searching for files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-10T23:37:42.875+0200] {manager.py:741} INFO - There are 3 files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-10T23:37:44.105+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.14s           2025-10-10T21:37:44
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            0           0
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     0           0
+================================================================================
+[2025-10-11T05:23:10.575+0200] {manager.py:451} INFO - Exiting gracefully upon receiving signal 15
+[2025-10-11T05:23:57.216+0200] {manager.py:469} INFO - Processing files using up to 1 processes at a time 
+[2025-10-11T05:23:57.216+0200] {manager.py:470} INFO - Process each file at most once every 30 seconds
+[2025-10-11T05:23:57.216+0200] {manager.py:471} INFO - Checking for new files in /Users/ebotfabien/Desktop/school/air_new/dags every 300 seconds
+[2025-10-11T05:23:57.216+0200] {manager.py:738} INFO - Searching for files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-11T05:23:57.219+0200] {manager.py:741} INFO - There are 3 files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-11T05:23:58.132+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  0.83s           2025-10-11T03:23:58
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     0           0
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           0           0
+================================================================================
+[2025-10-11T05:24:11.879+0200] {manager.py:451} INFO - Exiting gracefully upon receiving signal 15
+[2025-10-11T05:27:58.516+0200] {manager.py:469} INFO - Processing files using up to 1 processes at a time 
+[2025-10-11T05:27:58.517+0200] {manager.py:470} INFO - Process each file at most once every 30 seconds
+[2025-10-11T05:27:58.517+0200] {manager.py:471} INFO - Checking for new files in /Users/ebotfabien/Desktop/school/air_new/dags every 300 seconds
+[2025-10-11T05:27:58.517+0200] {manager.py:738} INFO - Searching for files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-11T05:27:58.519+0200] {manager.py:741} INFO - There are 3 files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-11T05:28:00.054+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  1.31s           2025-10-11T03:28:00
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     0           0
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           0           0
+================================================================================
+[2025-10-11T05:40:11.597+0200] {manager.py:451} INFO - Exiting gracefully upon receiving signal 15
+[2025-10-11T05:42:48.180+0200] {manager.py:469} INFO - Processing files using up to 1 processes at a time 
+[2025-10-11T05:42:48.180+0200] {manager.py:470} INFO - Process each file at most once every 30 seconds
+[2025-10-11T05:42:48.180+0200] {manager.py:471} INFO - Checking for new files in /Users/ebotfabien/Desktop/school/air_new/dags every 300 seconds
+[2025-10-11T05:42:48.180+0200] {manager.py:738} INFO - Searching for files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-11T05:42:48.184+0200] {manager.py:741} INFO - There are 3 files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-11T05:42:49.738+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  1.43s           2025-10-11T03:42:49
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     0           0
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           0           0
+================================================================================
+[2025-10-11T05:43:21.423+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.62s           2025-10-11T03:43:09
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  1.19s           2025-10-11T03:43:11
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  1.18s           2025-10-11T03:43:21
+================================================================================
+[2025-10-11T05:43:53.446+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  1.57s           2025-10-11T03:43:53
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.42s           2025-10-11T03:43:40
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  1.27s           2025-10-11T03:43:43
+================================================================================
+[2025-10-11T05:44:24.973+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  1.52s           2025-10-11T03:44:24
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.39s           2025-10-11T03:44:12
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  1.11s           2025-10-11T03:44:14
+================================================================================
+[2025-10-11T05:45:33.932+0200] {manager.py:451} INFO - Exiting gracefully upon receiving signal 15
+[2025-10-11T05:45:44.529+0200] {manager.py:469} INFO - Processing files using up to 1 processes at a time 
+[2025-10-11T05:45:44.529+0200] {manager.py:470} INFO - Process each file at most once every 30 seconds
+[2025-10-11T05:45:44.529+0200] {manager.py:471} INFO - Checking for new files in /Users/ebotfabien/Desktop/school/air_new/dags every 300 seconds
+[2025-10-11T05:45:44.529+0200] {manager.py:738} INFO - Searching for files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-11T05:45:44.531+0200] {manager.py:741} INFO - There are 3 files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-11T05:45:46.126+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  1.38s           2025-10-11T03:45:46
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            0           0
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           0           0
+================================================================================
+[2025-10-11T05:52:56.557+0200] {manager.py:451} INFO - Exiting gracefully upon receiving signal 15
+[2025-10-11T05:53:30.344+0200] {manager.py:469} INFO - Processing files using up to 1 processes at a time 
+[2025-10-11T05:53:30.345+0200] {manager.py:470} INFO - Process each file at most once every 30 seconds
+[2025-10-11T05:53:30.345+0200] {manager.py:471} INFO - Checking for new files in /Users/ebotfabien/Desktop/school/air_new/dags every 300 seconds
+[2025-10-11T05:53:30.345+0200] {manager.py:738} INFO - Searching for files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-11T05:53:30.347+0200] {manager.py:741} INFO - There are 3 files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-11T05:53:31.805+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  1.28s           2025-10-11T03:53:31
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            0           0
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           0           0
+================================================================================
+[2025-10-11T05:55:37.655+0200] {manager.py:451} INFO - Exiting gracefully upon receiving signal 15
+[2025-10-11T05:58:46.040+0200] {manager.py:469} INFO - Processing files using up to 1 processes at a time 
+[2025-10-11T05:58:46.041+0200] {manager.py:470} INFO - Process each file at most once every 30 seconds
+[2025-10-11T05:58:46.041+0200] {manager.py:471} INFO - Checking for new files in /Users/ebotfabien/Desktop/school/air_new/dags every 300 seconds
+[2025-10-11T05:58:46.041+0200] {manager.py:738} INFO - Searching for files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-11T05:58:46.044+0200] {manager.py:741} INFO - There are 3 files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-11T05:58:47.504+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  1.30s           2025-10-11T03:58:47
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            0           0
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           0           0
+================================================================================
+[2025-10-11T06:01:26.416+0200] {manager.py:451} INFO - Exiting gracefully upon receiving signal 15
+[2025-10-11T06:01:36.716+0200] {manager.py:469} INFO - Processing files using up to 1 processes at a time 
+[2025-10-11T06:01:36.716+0200] {manager.py:470} INFO - Process each file at most once every 30 seconds
+[2025-10-11T06:01:36.716+0200] {manager.py:471} INFO - Checking for new files in /Users/ebotfabien/Desktop/school/air_new/dags every 300 seconds
+[2025-10-11T06:01:36.716+0200] {manager.py:738} INFO - Searching for files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-11T06:01:36.719+0200] {manager.py:741} INFO - There are 3 files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-11T06:01:38.336+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  1.39s           2025-10-11T04:01:38
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            0           0
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           0           0
+================================================================================
+[2025-10-11T06:02:10.537+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.78s           2025-10-11T04:01:43
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  1.50s           2025-10-11T04:02:10
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  1.44s           2025-10-11T04:01:40
+================================================================================
+[2025-10-11T06:02:19.606+0200] {manager.py:451} INFO - Exiting gracefully upon receiving signal 15
+[2025-10-11T06:02:24.542+0200] {manager.py:469} INFO - Processing files using up to 1 processes at a time 
+[2025-10-11T06:02:24.542+0200] {manager.py:470} INFO - Process each file at most once every 30 seconds
+[2025-10-11T06:02:24.542+0200] {manager.py:471} INFO - Checking for new files in /Users/ebotfabien/Desktop/school/air_new/dags every 300 seconds
+[2025-10-11T06:02:24.542+0200] {manager.py:738} INFO - Searching for files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-11T06:02:24.544+0200] {manager.py:741} INFO - There are 3 files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-11T06:02:26.151+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  1.40s           2025-10-11T04:02:26
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            0           0
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           0           0
+================================================================================
+[2025-10-11T06:02:58.149+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.62s           2025-10-11T04:02:31
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  1.44s           2025-10-11T04:02:28
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  1.24s           2025-10-11T04:02:58
+================================================================================
+[2025-10-11T06:03:30.044+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  2.04s           2025-10-11T04:03:00
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  2.02s           2025-10-11T04:03:03
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  1.30s           2025-10-11T04:03:30
+================================================================================
+[2025-10-11T06:04:01.956+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.96s           2025-10-11T04:03:35
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  1.43s           2025-10-11T04:03:32
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  1.23s           2025-10-11T04:04:01
+================================================================================
+[2025-10-11T06:04:33.651+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  1.73s           2025-10-11T04:04:07
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  1.59s           2025-10-11T04:04:05
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  1.43s           2025-10-11T04:04:33
+================================================================================
+[2025-10-11T06:10:35.408+0200] {manager.py:451} INFO - Exiting gracefully upon receiving signal 15
+[2025-10-11T06:10:55.991+0200] {manager.py:469} INFO - Processing files using up to 1 processes at a time 
+[2025-10-11T06:10:55.991+0200] {manager.py:470} INFO - Process each file at most once every 30 seconds
+[2025-10-11T06:10:55.991+0200] {manager.py:471} INFO - Checking for new files in /Users/ebotfabien/Desktop/school/air_new/dags every 300 seconds
+[2025-10-11T06:10:55.992+0200] {manager.py:738} INFO - Searching for files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-11T06:10:55.994+0200] {manager.py:741} INFO - There are 3 files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-11T06:10:58.744+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  2.46s           2025-10-11T04:10:58
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            0           0
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     0           0
+================================================================================
+[2025-10-11T06:14:06.297+0200] {manager.py:451} INFO - Exiting gracefully upon receiving signal 15
+[2025-10-11T06:14:27.841+0200] {manager.py:469} INFO - Processing files using up to 1 processes at a time 
+[2025-10-11T06:14:27.841+0200] {manager.py:470} INFO - Process each file at most once every 30 seconds
+[2025-10-11T06:14:27.841+0200] {manager.py:471} INFO - Checking for new files in /Users/ebotfabien/Desktop/school/air_new/dags every 300 seconds
+[2025-10-11T06:14:27.841+0200] {manager.py:738} INFO - Searching for files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-11T06:14:27.844+0200] {manager.py:741} INFO - There are 3 files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-11T06:14:30.185+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  2.05s           2025-10-11T04:14:30
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            0           0
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     0           0
+================================================================================
+[2025-10-11T06:16:06.734+0200] {manager.py:451} INFO - Exiting gracefully upon receiving signal 15
+[2025-10-11T06:16:29.619+0200] {manager.py:469} INFO - Processing files using up to 1 processes at a time 
+[2025-10-11T06:16:29.619+0200] {manager.py:470} INFO - Process each file at most once every 30 seconds
+[2025-10-11T06:16:29.619+0200] {manager.py:471} INFO - Checking for new files in /Users/ebotfabien/Desktop/school/air_new/dags every 300 seconds
+[2025-10-11T06:16:29.619+0200] {manager.py:738} INFO - Searching for files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-11T06:16:29.622+0200] {manager.py:741} INFO - There are 3 files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-11T06:16:32.335+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  2.43s           2025-10-11T04:16:32
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            0           0
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     0           0
+================================================================================
+[2025-10-11T06:18:09.840+0200] {manager.py:451} INFO - Exiting gracefully upon receiving signal 15
+[2025-10-11T06:18:23.171+0200] {manager.py:469} INFO - Processing files using up to 1 processes at a time 
+[2025-10-11T06:18:23.172+0200] {manager.py:470} INFO - Process each file at most once every 30 seconds
+[2025-10-11T06:18:23.172+0200] {manager.py:471} INFO - Checking for new files in /Users/ebotfabien/Desktop/school/air_new/dags every 300 seconds
+[2025-10-11T06:18:23.172+0200] {manager.py:738} INFO - Searching for files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-11T06:18:23.174+0200] {manager.py:741} INFO - There are 3 files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-11T06:18:25.834+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  2.39s           2025-10-11T04:18:25
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            0           0
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     0           0
+================================================================================
+[2025-10-11T06:27:41.271+0200] {manager.py:451} INFO - Exiting gracefully upon receiving signal 15
+[2025-10-11T06:27:49.445+0200] {manager.py:469} INFO - Processing files using up to 1 processes at a time 
+[2025-10-11T06:27:49.446+0200] {manager.py:470} INFO - Process each file at most once every 30 seconds
+[2025-10-11T06:27:49.446+0200] {manager.py:471} INFO - Checking for new files in /Users/ebotfabien/Desktop/school/air_new/dags every 300 seconds
+[2025-10-11T06:27:49.446+0200] {manager.py:738} INFO - Searching for files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-11T06:27:49.450+0200] {manager.py:741} INFO - There are 3 files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-11T06:27:52.694+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  3.01s           2025-10-11T04:27:52
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            0           0
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     0           0
+================================================================================
+[2025-10-11T06:28:25.167+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  2.73s           2025-10-11T04:28:01
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  2.24s           2025-10-11T04:27:58
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  2.12s           2025-10-11T04:28:25
+================================================================================
+[2025-10-11T06:28:59.107+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  3.06s           2025-10-11T04:28:59
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  2.34s           2025-10-11T04:28:30
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  2.09s           2025-10-11T04:28:34
+================================================================================
+[2025-10-11T06:29:33.270+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  3.26s           2025-10-11T04:29:33
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  2.16s           2025-10-11T04:29:08
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  2.11s           2025-10-11T04:29:05
+================================================================================
+[2025-10-11T06:29:35.236+0200] {manager.py:451} INFO - Exiting gracefully upon receiving signal 15
+[2025-10-11T06:29:49.743+0200] {manager.py:469} INFO - Processing files using up to 1 processes at a time 
+[2025-10-11T06:29:49.743+0200] {manager.py:470} INFO - Process each file at most once every 30 seconds
+[2025-10-11T06:29:49.743+0200] {manager.py:471} INFO - Checking for new files in /Users/ebotfabien/Desktop/school/air_new/dags every 300 seconds
+[2025-10-11T06:29:49.743+0200] {manager.py:738} INFO - Searching for files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-11T06:29:49.746+0200] {manager.py:741} INFO - There are 3 files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-11T06:29:52.893+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  2.92s           2025-10-11T04:29:52
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            0           0
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     0           0
+================================================================================
+[2025-10-11T06:30:28.259+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  3.58s           2025-10-11T04:30:28
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  2.66s           2025-10-11T04:30:01
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  2.03s           2025-10-11T04:29:54
+================================================================================
+[2025-10-11T06:31:04.225+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  2.99s           2025-10-11T04:31:04
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  2.94s           2025-10-11T04:30:38
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  2.56s           2025-10-11T04:30:31
+================================================================================
+[2025-10-11T06:31:32.399+0200] {manager.py:451} INFO - Exiting gracefully upon receiving signal 15
+[2025-10-11T06:33:14.384+0200] {manager.py:469} INFO - Processing files using up to 1 processes at a time 
+[2025-10-11T06:33:14.385+0200] {manager.py:470} INFO - Process each file at most once every 30 seconds
+[2025-10-11T06:33:14.385+0200] {manager.py:471} INFO - Checking for new files in /Users/ebotfabien/Desktop/school/air_new/dags every 300 seconds
+[2025-10-11T06:33:14.385+0200] {manager.py:738} INFO - Searching for files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-11T06:33:14.388+0200] {manager.py:741} INFO - There are 3 files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-11T06:33:17.538+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  2.80s           2025-10-11T04:33:17
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            0           0
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     0           0
+================================================================================
+[2025-10-11T06:40:04.030+0200] {manager.py:451} INFO - Exiting gracefully upon receiving signal 15
+[2025-10-11T06:40:11.408+0200] {manager.py:469} INFO - Processing files using up to 1 processes at a time 
+[2025-10-11T06:40:11.408+0200] {manager.py:470} INFO - Process each file at most once every 30 seconds
+[2025-10-11T06:40:11.408+0200] {manager.py:471} INFO - Checking for new files in /Users/ebotfabien/Desktop/school/air_new/dags every 300 seconds
+[2025-10-11T06:40:11.408+0200] {manager.py:738} INFO - Searching for files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-11T06:40:11.411+0200] {manager.py:741} INFO - There are 3 files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-11T06:40:14.804+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  3.10s           2025-10-11T04:40:14
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            0           0
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     0           0
+================================================================================
+[2025-10-11T06:43:25.363+0200] {manager.py:451} INFO - Exiting gracefully upon receiving signal 15
+[2025-10-11T06:43:55.505+0200] {manager.py:469} INFO - Processing files using up to 1 processes at a time 
+[2025-10-11T06:43:55.505+0200] {manager.py:470} INFO - Process each file at most once every 30 seconds
+[2025-10-11T06:43:55.505+0200] {manager.py:471} INFO - Checking for new files in /Users/ebotfabien/Desktop/school/air_new/dags every 300 seconds
+[2025-10-11T06:43:55.505+0200] {manager.py:738} INFO - Searching for files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-11T06:43:55.508+0200] {manager.py:741} INFO - There are 3 files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-11T06:43:58.945+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  3.09s           2025-10-11T04:43:58
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            0           0
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     0           0
+================================================================================
+[2025-10-11T06:46:09.805+0200] {manager.py:451} INFO - Exiting gracefully upon receiving signal 15
+[2025-10-11T06:46:24.234+0200] {manager.py:469} INFO - Processing files using up to 1 processes at a time 
+[2025-10-11T06:46:24.234+0200] {manager.py:470} INFO - Process each file at most once every 30 seconds
+[2025-10-11T06:46:24.234+0200] {manager.py:471} INFO - Checking for new files in /Users/ebotfabien/Desktop/school/air_new/dags every 300 seconds
+[2025-10-11T06:46:24.234+0200] {manager.py:738} INFO - Searching for files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-11T06:46:24.236+0200] {manager.py:741} INFO - There are 3 files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-11T06:46:27.961+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  3.36s           2025-10-11T04:46:27
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            0           0
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     0           0
+================================================================================
+[2025-10-11T06:51:19.837+0200] {manager.py:469} INFO - Processing files using up to 1 processes at a time 
+[2025-10-11T06:51:19.838+0200] {manager.py:470} INFO - Process each file at most once every 30 seconds
+[2025-10-11T06:51:19.838+0200] {manager.py:471} INFO - Checking for new files in /Users/ebotfabien/Desktop/school/air_new/dags every 300 seconds
+[2025-10-11T06:51:19.838+0200] {manager.py:738} INFO - Searching for files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-11T06:51:19.841+0200] {manager.py:741} INFO - There are 3 files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-11T06:51:23.232+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  3.07s           2025-10-11T04:51:23
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            0           0
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     0           0
+================================================================================
+[2025-10-11T06:52:03.470+0200] {manager.py:451} INFO - Exiting gracefully upon receiving signal 15
+[2025-10-11T06:52:21.700+0200] {manager.py:451} INFO - Exiting gracefully upon receiving signal 15
+[2025-10-11T06:52:43.551+0200] {manager.py:469} INFO - Processing files using up to 1 processes at a time 
+[2025-10-11T06:52:43.551+0200] {manager.py:470} INFO - Process each file at most once every 30 seconds
+[2025-10-11T06:52:43.551+0200] {manager.py:471} INFO - Checking for new files in /Users/ebotfabien/Desktop/school/air_new/dags every 300 seconds
+[2025-10-11T06:52:43.551+0200] {manager.py:738} INFO - Searching for files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-11T06:52:43.554+0200] {manager.py:741} INFO - There are 3 files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-11T06:52:46.782+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  2.82s           2025-10-11T04:52:46
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            0           0
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     0           0
+================================================================================
+[2025-10-11T06:53:45.417+0200] {manager.py:469} INFO - Processing files using up to 1 processes at a time 
+[2025-10-11T06:53:45.417+0200] {manager.py:470} INFO - Process each file at most once every 30 seconds
+[2025-10-11T06:53:45.418+0200] {manager.py:471} INFO - Checking for new files in /Users/ebotfabien/Desktop/school/air_new/dags every 300 seconds
+[2025-10-11T06:53:45.418+0200] {manager.py:738} INFO - Searching for files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-11T06:53:45.421+0200] {manager.py:741} INFO - There are 3 files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-11T06:53:49.060+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  3.32s           2025-10-11T04:53:49
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            0           0
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     0           0
+================================================================================
+[2025-10-11T06:54:16.509+0200] {manager.py:451} INFO - Exiting gracefully upon receiving signal 15
+[2025-10-11T06:54:16.510+0200] {manager.py:451} INFO - Exiting gracefully upon receiving signal 15
+[2025-10-11T06:54:48.742+0200] {manager.py:469} INFO - Processing files using up to 1 processes at a time 
+[2025-10-11T06:54:48.743+0200] {manager.py:470} INFO - Process each file at most once every 30 seconds
+[2025-10-11T06:54:48.743+0200] {manager.py:471} INFO - Checking for new files in /Users/ebotfabien/Desktop/school/air_new/dags every 300 seconds
+[2025-10-11T06:54:48.743+0200] {manager.py:738} INFO - Searching for files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-11T06:54:48.746+0200] {manager.py:741} INFO - There are 3 files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-11T06:54:52.134+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  2.98s           2025-10-11T04:54:52
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            0           0
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     0           0
+================================================================================
+[2025-10-11T06:55:25.219+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  3.25s           2025-10-11T04:54:59
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  2.84s           2025-10-11T04:54:56
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  2.30s           2025-10-11T04:55:25
+================================================================================
+[2025-10-11T06:55:57.412+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  2.41s           2025-10-11T04:55:28
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  2.32s           2025-10-11T04:55:32
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  2.11s           2025-10-11T04:55:57
+================================================================================
+[2025-10-11T06:56:30.974+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  3.12s           2025-10-11T04:56:30
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  2.50s           2025-10-11T04:56:04
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  2.23s           2025-10-11T04:56:01
+================================================================================
+[2025-10-11T06:57:03.805+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  4.31s           2025-10-11T04:56:39
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  2.59s           2025-10-11T04:57:03
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  2.38s           2025-10-11T04:56:34
+================================================================================
+[2025-10-11T06:57:38.199+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  3.51s           2025-10-11T04:57:38
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  3.11s           2025-10-11T04:57:08
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  2.32s           2025-10-11T04:57:11
+================================================================================
+[2025-10-11T07:03:12.982+0200] {manager.py:451} INFO - Exiting gracefully upon receiving signal 15
+[2025-10-11T07:03:27.541+0200] {manager.py:469} INFO - Processing files using up to 1 processes at a time 
+[2025-10-11T07:03:27.542+0200] {manager.py:470} INFO - Process each file at most once every 30 seconds
+[2025-10-11T07:03:27.542+0200] {manager.py:471} INFO - Checking for new files in /Users/ebotfabien/Desktop/school/air_new/dags every 300 seconds
+[2025-10-11T07:03:27.542+0200] {manager.py:738} INFO - Searching for files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-11T07:03:27.544+0200] {manager.py:741} INFO - There are 3 files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-11T07:03:31.210+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  3.43s           2025-10-11T05:03:31
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            0           0
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     0           0
+================================================================================
+[2025-10-11T07:04:42.941+0200] {manager.py:451} INFO - Exiting gracefully upon receiving signal 15
+[2025-10-11T07:05:01.106+0200] {manager.py:469} INFO - Processing files using up to 1 processes at a time 
+[2025-10-11T07:05:01.106+0200] {manager.py:470} INFO - Process each file at most once every 30 seconds
+[2025-10-11T07:05:01.106+0200] {manager.py:471} INFO - Checking for new files in /Users/ebotfabien/Desktop/school/air_new/dags every 300 seconds
+[2025-10-11T07:05:01.106+0200] {manager.py:738} INFO - Searching for files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-11T07:05:01.109+0200] {manager.py:741} INFO - There are 3 files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-11T07:05:05.104+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  3.62s           2025-10-11T05:05:05
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            0           0
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     0           0
+================================================================================
+[2025-10-11T07:09:57.665+0200] {manager.py:451} INFO - Exiting gracefully upon receiving signal 15
+[2025-10-11T07:10:11.738+0200] {manager.py:469} INFO - Processing files using up to 1 processes at a time 
+[2025-10-11T07:10:11.738+0200] {manager.py:470} INFO - Process each file at most once every 30 seconds
+[2025-10-11T07:10:11.738+0200] {manager.py:471} INFO - Checking for new files in /Users/ebotfabien/Desktop/school/air_new/dags every 300 seconds
+[2025-10-11T07:10:11.738+0200] {manager.py:738} INFO - Searching for files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-11T07:10:11.740+0200] {manager.py:741} INFO - There are 3 files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-11T07:10:15.601+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  3.48s           2025-10-11T05:10:15
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            0           0
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     0           0
+================================================================================
+[2025-10-11T07:11:26.255+0200] {manager.py:451} INFO - Exiting gracefully upon receiving signal 15
+[2025-10-11T07:11:46.607+0200] {manager.py:469} INFO - Processing files using up to 1 processes at a time 
+[2025-10-11T07:11:46.607+0200] {manager.py:470} INFO - Process each file at most once every 30 seconds
+[2025-10-11T07:11:46.607+0200] {manager.py:471} INFO - Checking for new files in /Users/ebotfabien/Desktop/school/air_new/dags every 300 seconds
+[2025-10-11T07:11:46.607+0200] {manager.py:738} INFO - Searching for files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-11T07:11:46.611+0200] {manager.py:741} INFO - There are 3 files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-11T07:11:50.434+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  3.44s           2025-10-11T05:11:50
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            0           0
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     0           0
+================================================================================
+[2025-10-11T07:13:48.817+0200] {manager.py:451} INFO - Exiting gracefully upon receiving signal 15
+[2025-10-11T07:14:04.137+0200] {manager.py:469} INFO - Processing files using up to 1 processes at a time 
+[2025-10-11T07:14:04.137+0200] {manager.py:470} INFO - Process each file at most once every 30 seconds
+[2025-10-11T07:14:04.137+0200] {manager.py:471} INFO - Checking for new files in /Users/ebotfabien/Desktop/school/air_new/dags every 300 seconds
+[2025-10-11T07:14:04.138+0200] {manager.py:738} INFO - Searching for files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-11T07:14:04.141+0200] {manager.py:741} INFO - There are 3 files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-11T07:14:08.212+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  3.60s           2025-10-11T05:14:08
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            0           0
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     0           0
+================================================================================
+[2025-10-11T07:14:30.608+0200] {manager.py:451} INFO - Exiting gracefully upon receiving signal 15
+[2025-10-11T07:14:57.908+0200] {manager.py:469} INFO - Processing files using up to 1 processes at a time 
+[2025-10-11T07:14:57.909+0200] {manager.py:470} INFO - Process each file at most once every 30 seconds
+[2025-10-11T07:14:57.909+0200] {manager.py:471} INFO - Checking for new files in /Users/ebotfabien/Desktop/school/air_new/dags every 300 seconds
+[2025-10-11T07:14:57.909+0200] {manager.py:738} INFO - Searching for files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-11T07:14:57.912+0200] {manager.py:741} INFO - There are 3 files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-11T07:15:03.428+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  5.24s           2025-10-11T05:15:03
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            0           0
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     0           0
+================================================================================
+[2025-10-11T07:21:42.750+0200] {manager.py:451} INFO - Exiting gracefully upon receiving signal 15
+[2025-10-11T07:22:04.099+0200] {manager.py:469} INFO - Processing files using up to 1 processes at a time 
+[2025-10-11T07:22:04.100+0200] {manager.py:470} INFO - Process each file at most once every 30 seconds
+[2025-10-11T07:22:04.100+0200] {manager.py:471} INFO - Checking for new files in /Users/ebotfabien/Desktop/school/air_new/dags every 300 seconds
+[2025-10-11T07:22:04.100+0200] {manager.py:738} INFO - Searching for files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-11T07:22:04.103+0200] {manager.py:741} INFO - There are 3 files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-11T07:22:08.437+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  4.01s           2025-10-11T05:22:08
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            0           0
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     0           0
+================================================================================
+[2025-10-11T07:22:41.797+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  3.09s           2025-10-11T05:22:18
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  2.77s           2025-10-11T05:22:41
+/Users/ebotfabien/Desktop/school/air_new/dags/test.py                                     1           0  2.70s           2025-10-11T05:22:14
+================================================================================
+[2025-10-11T07:37:34.312+0200] {manager.py:451} INFO - Exiting gracefully upon receiving signal 15
+[2025-10-11T07:37:52.100+0200] {manager.py:469} INFO - Processing files using up to 1 processes at a time 
+[2025-10-11T07:37:52.100+0200] {manager.py:470} INFO - Process each file at most once every 30 seconds
+[2025-10-11T07:37:52.100+0200] {manager.py:471} INFO - Checking for new files in /Users/ebotfabien/Desktop/school/air_new/dags every 300 seconds
+[2025-10-11T07:37:52.100+0200] {manager.py:738} INFO - Searching for files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-11T07:37:52.103+0200] {manager.py:741} INFO - There are 2 files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-11T07:37:56.473+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           1           0  4.08s           2025-10-11T05:37:56
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            0           0
+================================================================================
+[2025-10-11T07:42:27.321+0200] {manager.py:451} INFO - Exiting gracefully upon receiving signal 15
+[2025-10-11T07:43:00.099+0200] {manager.py:469} INFO - Processing files using up to 1 processes at a time 
+[2025-10-11T07:43:00.099+0200] {manager.py:470} INFO - Process each file at most once every 30 seconds
+[2025-10-11T07:43:00.100+0200] {manager.py:471} INFO - Checking for new files in /Users/ebotfabien/Desktop/school/air_new/dags every 300 seconds
+[2025-10-11T07:43:00.100+0200] {manager.py:738} INFO - Searching for files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-11T07:43:00.124+0200] {manager.py:741} INFO - There are 2 files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-11T07:43:03.816+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  3.20s           2025-10-11T05:43:03
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           0           0
+================================================================================
+[2025-10-11T07:43:46.609+0200] {manager.py:451} INFO - Exiting gracefully upon receiving signal 15
+[2025-10-11T07:44:05.577+0200] {manager.py:469} INFO - Processing files using up to 1 processes at a time 
+[2025-10-11T07:44:05.578+0200] {manager.py:470} INFO - Process each file at most once every 30 seconds
+[2025-10-11T07:44:05.578+0200] {manager.py:471} INFO - Checking for new files in /Users/ebotfabien/Desktop/school/air_new/dags every 300 seconds
+[2025-10-11T07:44:05.578+0200] {manager.py:738} INFO - Searching for files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-11T07:44:05.597+0200] {manager.py:741} INFO - There are 2 files in /Users/ebotfabien/Desktop/school/air_new/dags
+[2025-10-11T07:44:10.432+0200] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                        PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py                            1           0  4.37s           2025-10-11T05:44:10
+/Users/ebotfabien/Desktop/school/air_new/dags/prediction_dag.py                           0           0
+================================================================================
+[2025-10-11T07:47:48.300+0200] {manager.py:451} INFO - Exiting gracefully upon receiving signal 15

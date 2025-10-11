@@ -1,0 +1,197 @@
+[2025-10-11T05:23:57.870+0200] {processor.py:161} INFO - Started process (PID=58295) to work on /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T05:23:57.872+0200] {processor.py:830} INFO - Processing file /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py for tasks to queue
+[2025-10-11T05:23:57.872+0200] {logging_mixin.py:188} INFO - [2025-10-11T05:23:57.872+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T05:23:57.894+0200] {processor.py:840} INFO - DAG(s) 'file_mover_dag' retrieved from /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T05:23:58.004+0200] {logging_mixin.py:188} INFO - [2025-10-11T05:23:58.004+0200] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-10-11T05:23:58.014+0200] {logging_mixin.py:188} INFO - [2025-10-11T05:23:58.014+0200] {dag.py:3834} INFO - Setting next_dagrun for file_mover_dag to 2025-10-11 05:23:00+00:00, run_after=2025-10-11 05:24:00+00:00
+[2025-10-11T05:23:58.022+0200] {processor.py:183} INFO - Processing /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py took 0.153 seconds
+[2025-10-11T05:27:59.737+0200] {processor.py:161} INFO - Started process (PID=61079) to work on /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T05:27:59.738+0200] {processor.py:830} INFO - Processing file /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py for tasks to queue
+[2025-10-11T05:27:59.738+0200] {logging_mixin.py:188} INFO - [2025-10-11T05:27:59.738+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T05:27:59.750+0200] {processor.py:840} INFO - DAG(s) 'file_mover_dag' retrieved from /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T05:27:59.871+0200] {logging_mixin.py:188} INFO - [2025-10-11T05:27:59.871+0200] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-10-11T05:27:59.883+0200] {logging_mixin.py:188} INFO - [2025-10-11T05:27:59.883+0200] {dag.py:3834} INFO - Setting next_dagrun for file_mover_dag to 2025-10-11 05:27:00+00:00, run_after=2025-10-11 05:28:00+00:00
+[2025-10-11T05:27:59.890+0200] {processor.py:183} INFO - Processing /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py took 0.153 seconds
+[2025-10-11T05:42:49.193+0200] {processor.py:161} INFO - Started process (PID=70687) to work on /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T05:42:49.193+0200] {processor.py:830} INFO - Processing file /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py for tasks to queue
+[2025-10-11T05:42:49.194+0200] {logging_mixin.py:188} INFO - [2025-10-11T05:42:49.194+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T05:42:49.208+0200] {processor.py:840} INFO - DAG(s) 'file_mover_dag' retrieved from /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T05:42:49.381+0200] {logging_mixin.py:188} INFO - [2025-10-11T05:42:49.381+0200] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-10-11T05:42:49.482+0200] {processor.py:183} INFO - Processing /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py took 0.290 seconds
+[2025-10-11T05:43:20.962+0200] {processor.py:161} INFO - Started process (PID=71048) to work on /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T05:43:20.962+0200] {processor.py:830} INFO - Processing file /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py for tasks to queue
+[2025-10-11T05:43:20.963+0200] {logging_mixin.py:188} INFO - [2025-10-11T05:43:20.963+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T05:43:20.985+0200] {processor.py:840} INFO - DAG(s) 'file_mover_dag' retrieved from /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T05:43:21.176+0200] {logging_mixin.py:188} INFO - [2025-10-11T05:43:21.176+0200] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-10-11T05:43:21.190+0200] {processor.py:183} INFO - Processing /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py took 0.228 seconds
+[2025-10-11T05:43:52.767+0200] {processor.py:161} INFO - Started process (PID=71381) to work on /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T05:43:52.771+0200] {processor.py:830} INFO - Processing file /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py for tasks to queue
+[2025-10-11T05:43:52.772+0200] {logging_mixin.py:188} INFO - [2025-10-11T05:43:52.771+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T05:43:52.798+0200] {processor.py:840} INFO - DAG(s) 'file_mover_dag' retrieved from /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T05:43:53.026+0200] {logging_mixin.py:188} INFO - [2025-10-11T05:43:53.026+0200] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-10-11T05:43:53.041+0200] {processor.py:183} INFO - Processing /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py took 0.275 seconds
+[2025-10-11T05:44:24.302+0200] {processor.py:161} INFO - Started process (PID=71707) to work on /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T05:44:24.304+0200] {processor.py:830} INFO - Processing file /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py for tasks to queue
+[2025-10-11T05:44:24.304+0200] {logging_mixin.py:188} INFO - [2025-10-11T05:44:24.304+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T05:44:24.337+0200] {processor.py:840} INFO - DAG(s) 'file_mover_dag' retrieved from /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T05:44:24.432+0200] {logging_mixin.py:188} INFO - [2025-10-11T05:44:24.432+0200] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-10-11T05:44:24.447+0200] {processor.py:183} INFO - Processing /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py took 0.145 seconds
+[2025-10-11T06:01:40.312+0200] {processor.py:161} INFO - Started process (PID=82791) to work on /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T06:01:40.313+0200] {processor.py:830} INFO - Processing file /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py for tasks to queue
+[2025-10-11T06:01:40.313+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:01:40.313+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T06:01:40.326+0200] {processor.py:840} INFO - DAG(s) 'file_mover_dag' retrieved from /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T06:01:40.484+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:01:40.484+0200] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-10-11T06:01:40.499+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:01:40.499+0200] {dag.py:3069} INFO - Creating ORM DAG for file_mover_dag
+[2025-10-11T06:01:40.515+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:01:40.515+0200] {dag.py:3834} INFO - Setting next_dagrun for file_mover_dag to 2025-10-11 04:00:00+00:00, run_after=2025-10-11 04:01:00+00:00
+[2025-10-11T06:01:40.522+0200] {processor.py:183} INFO - Processing /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py took 0.210 seconds
+[2025-10-11T06:02:12.016+0200] {processor.py:161} INFO - Started process (PID=83121) to work on /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T06:02:12.017+0200] {processor.py:830} INFO - Processing file /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py for tasks to queue
+[2025-10-11T06:02:12.017+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:02:12.017+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T06:02:12.031+0200] {processor.py:840} INFO - DAG(s) 'file_mover_dag' retrieved from /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T06:02:12.150+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:02:12.150+0200] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-10-11T06:02:12.158+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:02:12.158+0200] {dag.py:3834} INFO - Setting next_dagrun for file_mover_dag to 2025-10-11 04:01:00+00:00, run_after=2025-10-11 04:02:00+00:00
+[2025-10-11T06:02:12.165+0200] {processor.py:183} INFO - Processing /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py took 0.149 seconds
+[2025-10-11T06:02:28.234+0200] {processor.py:161} INFO - Started process (PID=83362) to work on /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T06:02:28.234+0200] {processor.py:830} INFO - Processing file /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py for tasks to queue
+[2025-10-11T06:02:28.234+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:02:28.234+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T06:02:28.252+0200] {processor.py:840} INFO - DAG(s) 'file_mover_dag' retrieved from /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T06:02:28.392+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:02:28.392+0200] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-10-11T06:02:28.398+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:02:28.398+0200] {dag.py:3834} INFO - Setting next_dagrun for file_mover_dag to 2025-10-11 04:01:00+00:00, run_after=2025-10-11 04:02:00+00:00
+[2025-10-11T06:02:28.405+0200] {processor.py:183} INFO - Processing /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py took 0.172 seconds
+[2025-10-11T06:03:00.124+0200] {processor.py:161} INFO - Started process (PID=83697) to work on /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T06:03:00.124+0200] {processor.py:830} INFO - Processing file /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py for tasks to queue
+[2025-10-11T06:03:00.124+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:03:00.124+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T06:03:00.139+0200] {processor.py:840} INFO - DAG(s) 'file_mover_dag' retrieved from /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T06:03:00.262+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:03:00.261+0200] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-10-11T06:03:00.277+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:03:00.277+0200] {dag.py:3834} INFO - Setting next_dagrun for file_mover_dag to 2025-10-11 04:02:00+00:00, run_after=2025-10-11 04:03:00+00:00
+[2025-10-11T06:03:00.284+0200] {processor.py:183} INFO - Processing /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py took 0.161 seconds
+[2025-10-11T06:03:32.113+0200] {processor.py:161} INFO - Started process (PID=84035) to work on /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T06:03:32.114+0200] {processor.py:830} INFO - Processing file /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py for tasks to queue
+[2025-10-11T06:03:32.114+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:03:32.114+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T06:03:32.129+0200] {processor.py:840} INFO - DAG(s) 'file_mover_dag' retrieved from /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T06:03:32.222+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:03:32.222+0200] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-10-11T06:03:32.229+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:03:32.229+0200] {dag.py:3834} INFO - Setting next_dagrun for file_mover_dag to 2025-10-11 04:03:00+00:00, run_after=2025-10-11 04:04:00+00:00
+[2025-10-11T06:03:32.236+0200] {processor.py:183} INFO - Processing /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py took 0.123 seconds
+[2025-10-11T06:04:05.186+0200] {processor.py:161} INFO - Started process (PID=84367) to work on /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T06:04:05.187+0200] {processor.py:830} INFO - Processing file /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py for tasks to queue
+[2025-10-11T06:04:05.187+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:04:05.187+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T06:04:05.215+0200] {processor.py:840} INFO - DAG(s) 'file_mover_dag' retrieved from /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T06:04:05.349+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:04:05.349+0200] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-10-11T06:04:05.387+0200] {processor.py:183} INFO - Processing /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py took 0.201 seconds
+[2025-10-11T06:04:37.013+0200] {processor.py:161} INFO - Started process (PID=84711) to work on /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T06:04:37.014+0200] {processor.py:830} INFO - Processing file /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py for tasks to queue
+[2025-10-11T06:04:37.014+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:04:37.014+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T06:04:37.030+0200] {processor.py:840} INFO - DAG(s) 'file_mover_dag' retrieved from /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T06:04:37.152+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:04:37.152+0200] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-10-11T06:04:37.160+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:04:37.160+0200] {dag.py:3834} INFO - Setting next_dagrun for file_mover_dag to 2025-10-11 04:04:00+00:00, run_after=2025-10-11 04:05:00+00:00
+[2025-10-11T06:04:37.167+0200] {processor.py:183} INFO - Processing /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py took 0.154 seconds
+[2025-10-11T06:28:01.143+0200] {processor.py:161} INFO - Started process (PID=99766) to work on /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T06:28:01.143+0200] {processor.py:830} INFO - Processing file /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py for tasks to queue
+[2025-10-11T06:28:01.143+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:28:01.143+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T06:28:01.156+0200] {processor.py:840} INFO - DAG(s) 'file_mover_dag' retrieved from /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T06:28:01.439+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:28:01.439+0200] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-10-11T06:28:01.446+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:28:01.446+0200] {dag.py:3834} INFO - Setting next_dagrun for file_mover_dag to 2025-10-11 04:27:00+00:00, run_after=2025-10-11 04:28:00+00:00
+[2025-10-11T06:28:01.453+0200] {processor.py:183} INFO - Processing /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py took 0.311 seconds
+[2025-10-11T06:28:33.391+0200] {processor.py:161} INFO - Started process (PID=346) to work on /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T06:28:33.392+0200] {processor.py:830} INFO - Processing file /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py for tasks to queue
+[2025-10-11T06:28:33.392+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:28:33.392+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T06:28:33.404+0200] {processor.py:840} INFO - DAG(s) 'file_mover_dag' retrieved from /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T06:28:33.592+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:28:33.591+0200] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-10-11T06:28:33.639+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:28:33.639+0200] {dag.py:3834} INFO - Setting next_dagrun for file_mover_dag to 2025-10-11 04:27:00+00:00, run_after=2025-10-11 04:28:00+00:00
+[2025-10-11T06:28:33.647+0200] {processor.py:183} INFO - Processing /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py took 0.256 seconds
+[2025-10-11T06:29:07.568+0200] {processor.py:161} INFO - Started process (PID=827) to work on /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T06:29:07.569+0200] {processor.py:830} INFO - Processing file /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py for tasks to queue
+[2025-10-11T06:29:07.569+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:29:07.569+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T06:29:07.581+0200] {processor.py:840} INFO - DAG(s) 'file_mover_dag' retrieved from /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T06:29:07.808+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:29:07.808+0200] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-10-11T06:29:07.832+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:29:07.831+0200] {dag.py:3834} INFO - Setting next_dagrun for file_mover_dag to 2025-10-11 04:28:00+00:00, run_after=2025-10-11 04:29:00+00:00
+[2025-10-11T06:29:07.839+0200] {processor.py:183} INFO - Processing /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py took 0.271 seconds
+[2025-10-11T06:30:00.630+0200] {processor.py:161} INFO - Started process (PID=1450) to work on /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T06:30:00.632+0200] {processor.py:830} INFO - Processing file /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py for tasks to queue
+[2025-10-11T06:30:00.632+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:30:00.632+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T06:30:00.645+0200] {processor.py:840} INFO - DAG(s) 'file_mover_dag' retrieved from /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T06:30:00.962+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:30:00.961+0200] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-10-11T06:30:00.970+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:30:00.970+0200] {dag.py:3834} INFO - Setting next_dagrun for file_mover_dag to 2025-10-11 04:29:00+00:00, run_after=2025-10-11 04:30:00+00:00
+[2025-10-11T06:30:00.977+0200] {processor.py:183} INFO - Processing /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py took 0.347 seconds
+[2025-10-11T06:30:37.970+0200] {processor.py:161} INFO - Started process (PID=1807) to work on /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T06:30:37.971+0200] {processor.py:830} INFO - Processing file /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py for tasks to queue
+[2025-10-11T06:30:37.971+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:30:37.971+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T06:30:38.034+0200] {processor.py:840} INFO - DAG(s) 'file_mover_dag' retrieved from /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T06:30:38.256+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:30:38.256+0200] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-10-11T06:30:38.262+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:30:38.262+0200] {dag.py:3834} INFO - Setting next_dagrun for file_mover_dag to 2025-10-11 04:29:00+00:00, run_after=2025-10-11 04:30:00+00:00
+[2025-10-11T06:30:38.270+0200] {processor.py:183} INFO - Processing /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py took 0.300 seconds
+[2025-10-11T06:31:12.980+0200] {processor.py:161} INFO - Started process (PID=2268) to work on /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T06:31:12.980+0200] {processor.py:830} INFO - Processing file /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py for tasks to queue
+[2025-10-11T06:31:12.980+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:31:12.980+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T06:31:13.052+0200] {processor.py:840} INFO - DAG(s) 'file_mover_dag' retrieved from /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T06:31:13.236+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:31:13.236+0200] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-10-11T06:31:13.243+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:31:13.243+0200] {dag.py:3834} INFO - Setting next_dagrun for file_mover_dag to 2025-10-11 04:30:00+00:00, run_after=2025-10-11 04:31:00+00:00
+[2025-10-11T06:31:13.251+0200] {processor.py:183} INFO - Processing /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py took 0.272 seconds
+[2025-10-11T06:53:55.011+0200] {processor.py:161} INFO - Started process (PID=16650) to work on /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T06:53:55.012+0200] {processor.py:830} INFO - Processing file /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py for tasks to queue
+[2025-10-11T06:53:55.012+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:53:55.012+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T06:53:55.025+0200] {processor.py:840} INFO - DAG(s) 'file_mover_dag' retrieved from /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T06:53:55.274+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:53:55.273+0200] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-10-11T06:53:55.295+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:53:55.295+0200] {dag.py:3834} INFO - Setting next_dagrun for file_mover_dag to 2025-10-11 04:52:00+00:00, run_after=2025-10-11 04:53:00+00:00
+[2025-10-11T06:53:55.301+0200] {processor.py:183} INFO - Processing /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py took 0.291 seconds
+[2025-10-11T06:54:58.895+0200] {processor.py:161} INFO - Started process (PID=17340) to work on /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T06:54:58.896+0200] {processor.py:830} INFO - Processing file /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py for tasks to queue
+[2025-10-11T06:54:58.896+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:54:58.896+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T06:54:58.910+0200] {processor.py:840} INFO - DAG(s) 'file_mover_dag' retrieved from /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T06:54:59.258+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:54:59.257+0200] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-10-11T06:54:59.265+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:54:59.265+0200] {dag.py:3834} INFO - Setting next_dagrun for file_mover_dag to 2025-10-11 04:53:00+00:00, run_after=2025-10-11 04:54:00+00:00
+[2025-10-11T06:54:59.271+0200] {processor.py:183} INFO - Processing /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py took 0.381 seconds
+[2025-10-11T06:55:31.324+0200] {processor.py:161} INFO - Started process (PID=17672) to work on /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T06:55:31.325+0200] {processor.py:830} INFO - Processing file /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py for tasks to queue
+[2025-10-11T06:55:31.325+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:55:31.325+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T06:55:31.342+0200] {processor.py:840} INFO - DAG(s) 'file_mover_dag' retrieved from /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T06:55:31.609+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:55:31.609+0200] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-10-11T06:55:31.616+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:55:31.616+0200] {dag.py:3834} INFO - Setting next_dagrun for file_mover_dag to 2025-10-11 04:54:00+00:00, run_after=2025-10-11 04:55:00+00:00
+[2025-10-11T06:55:31.623+0200] {processor.py:183} INFO - Processing /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py took 0.300 seconds
+[2025-10-11T06:56:03.919+0200] {processor.py:161} INFO - Started process (PID=17991) to work on /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T06:56:03.920+0200] {processor.py:830} INFO - Processing file /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py for tasks to queue
+[2025-10-11T06:56:03.920+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:56:03.920+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T06:56:03.938+0200] {processor.py:840} INFO - DAG(s) 'file_mover_dag' retrieved from /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T06:56:04.209+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:56:04.209+0200] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-10-11T06:56:04.216+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:56:04.216+0200] {dag.py:3834} INFO - Setting next_dagrun for file_mover_dag to 2025-10-11 04:55:00+00:00, run_after=2025-10-11 04:56:00+00:00
+[2025-10-11T06:56:04.223+0200] {processor.py:183} INFO - Processing /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py took 0.304 seconds
+[2025-10-11T06:56:37.536+0200] {processor.py:161} INFO - Started process (PID=18317) to work on /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T06:56:37.537+0200] {processor.py:830} INFO - Processing file /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py for tasks to queue
+[2025-10-11T06:56:37.537+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:56:37.537+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T06:56:37.559+0200] {processor.py:840} INFO - DAG(s) 'file_mover_dag' retrieved from /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T06:56:37.870+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:56:37.870+0200] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-10-11T06:56:37.879+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:56:37.879+0200] {dag.py:3834} INFO - Setting next_dagrun for file_mover_dag to 2025-10-11 04:55:00+00:00, run_after=2025-10-11 04:56:00+00:00
+[2025-10-11T06:56:37.891+0200] {processor.py:183} INFO - Processing /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py took 0.356 seconds
+[2025-10-11T06:57:10.508+0200] {processor.py:161} INFO - Started process (PID=18753) to work on /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T06:57:10.508+0200] {processor.py:830} INFO - Processing file /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py for tasks to queue
+[2025-10-11T06:57:10.509+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:57:10.509+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T06:57:10.525+0200] {processor.py:840} INFO - DAG(s) 'file_mover_dag' retrieved from /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T06:57:10.908+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:57:10.908+0200] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-10-11T06:57:10.915+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:57:10.915+0200] {dag.py:3834} INFO - Setting next_dagrun for file_mover_dag to 2025-10-11 04:56:00+00:00, run_after=2025-10-11 04:57:00+00:00
+[2025-10-11T06:57:10.924+0200] {processor.py:183} INFO - Processing /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py took 0.417 seconds
+[2025-10-11T06:57:45.471+0200] {processor.py:161} INFO - Started process (PID=19086) to work on /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T06:57:45.471+0200] {processor.py:830} INFO - Processing file /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py for tasks to queue
+[2025-10-11T06:57:45.472+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:57:45.472+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T06:57:45.486+0200] {processor.py:840} INFO - DAG(s) 'file_mover_dag' retrieved from /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T06:57:46.012+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:57:46.011+0200] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-10-11T06:57:46.021+0200] {logging_mixin.py:188} INFO - [2025-10-11T06:57:46.021+0200] {dag.py:3834} INFO - Setting next_dagrun for file_mover_dag to 2025-10-11 04:56:00+00:00, run_after=2025-10-11 04:57:00+00:00
+[2025-10-11T06:57:46.028+0200] {processor.py:183} INFO - Processing /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py took 0.597 seconds
+[2025-10-11T07:22:17.880+0200] {processor.py:161} INFO - Started process (PID=34442) to work on /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T07:22:17.881+0200] {processor.py:830} INFO - Processing file /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py for tasks to queue
+[2025-10-11T07:22:17.881+0200] {logging_mixin.py:188} INFO - [2025-10-11T07:22:17.881+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T07:22:17.914+0200] {processor.py:840} INFO - DAG(s) 'file_mover_dag' retrieved from /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T07:22:18.174+0200] {logging_mixin.py:188} INFO - [2025-10-11T07:22:18.173+0200] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-10-11T07:22:18.205+0200] {logging_mixin.py:188} INFO - [2025-10-11T07:22:18.205+0200] {dag.py:3834} INFO - Setting next_dagrun for file_mover_dag to 2025-10-11 05:21:00+00:00, run_after=2025-10-11 05:22:00+00:00
+[2025-10-11T07:22:18.212+0200] {processor.py:183} INFO - Processing /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py took 0.333 seconds
+[2025-10-11T07:43:02.580+0200] {processor.py:161} INFO - Started process (PID=47312) to work on /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T07:43:02.581+0200] {processor.py:830} INFO - Processing file /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py for tasks to queue
+[2025-10-11T07:43:02.581+0200] {logging_mixin.py:188} INFO - [2025-10-11T07:43:02.581+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T07:43:02.594+0200] {processor.py:840} INFO - DAG(s) 'file_mover_dag' retrieved from /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T07:43:03.017+0200] {logging_mixin.py:188} INFO - [2025-10-11T07:43:03.017+0200] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-10-11T07:43:03.030+0200] {processor.py:183} INFO - Processing /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py took 0.451 seconds
+[2025-10-11T07:44:09.133+0200] {processor.py:161} INFO - Started process (PID=48004) to work on /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T07:44:09.134+0200] {processor.py:830} INFO - Processing file /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py for tasks to queue
+[2025-10-11T07:44:09.134+0200] {logging_mixin.py:188} INFO - [2025-10-11T07:44:09.134+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T07:44:09.148+0200] {processor.py:840} INFO - DAG(s) 'file_mover_dag' retrieved from /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py
+[2025-10-11T07:44:09.591+0200] {logging_mixin.py:188} INFO - [2025-10-11T07:44:09.591+0200] {dag.py:3047} INFO - Sync 1 DAGs
+[2025-10-11T07:44:09.605+0200] {processor.py:183} INFO - Processing /Users/ebotfabien/Desktop/school/air_new/dags/ingestion_dag.py took 0.472 seconds
