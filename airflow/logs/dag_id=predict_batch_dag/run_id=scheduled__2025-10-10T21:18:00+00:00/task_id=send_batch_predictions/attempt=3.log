@@ -1,0 +1,18 @@
+[2025-10-10T23:28:35.709+0200] {taskinstance.py:1979} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: predict_batch_dag.send_batch_predictions scheduled__2025-10-10T21:18:00+00:00 [queued]>
+[2025-10-10T23:28:35.711+0200] {taskinstance.py:1979} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: predict_batch_dag.send_batch_predictions scheduled__2025-10-10T21:18:00+00:00 [queued]>
+[2025-10-10T23:28:35.712+0200] {taskinstance.py:2193} INFO - Starting attempt 3 of 1
+[2025-10-10T23:28:35.718+0200] {taskinstance.py:2214} INFO - Executing <Task(PythonOperator): send_batch_predictions> on 2025-10-10 21:18:00+00:00
+[2025-10-10T23:28:35.722+0200] {standard_task_runner.py:60} INFO - Started process 42107 to run task
+[2025-10-10T23:28:35.725+0200] {standard_task_runner.py:87} INFO - Running: ['airflow', 'tasks', 'run', 'predict_batch_dag', 'send_batch_predictions', 'scheduled__2025-10-10T21:18:00+00:00', '--job-id', '101', '--raw', '--subdir', 'DAGS_FOLDER/prediction_dag.py', '--cfg-path', '/var/folders/rp/syznybx160jd0kg9k7r_sj8w0000gn/T/tmpl53413kj']
+[2025-10-10T23:28:35.726+0200] {standard_task_runner.py:88} INFO - Job 101: Subtask send_batch_predictions
+[2025-10-10T23:28:35.740+0200] {task_command.py:423} INFO - Running <TaskInstance: predict_batch_dag.send_batch_predictions scheduled__2025-10-10T21:18:00+00:00 [running]> on host ebots-macbook-pro.local
+[2025-10-10T23:28:35.768+0200] {taskinstance.py:2510} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='predict_batch_dag' AIRFLOW_CTX_TASK_ID='send_batch_predictions' AIRFLOW_CTX_EXECUTION_DATE='2025-10-10T21:18:00+00:00' AIRFLOW_CTX_TRY_NUMBER='3' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2025-10-10T21:18:00+00:00'
+[2025-10-10T23:28:35.769+0200] {logging_mixin.py:188} INFO - 📄 Found CSV file: /Users/ebotfabien/Desktop/school/air_new/dags/destination/data_part_1.csv
+[2025-10-10T23:28:35.776+0200] {logging_mixin.py:188} INFO - 📦 Sending 10 batch(es)...
+[2025-10-10T23:36:03.876+0200] {local_task_job_runner.py:280} WARNING - Recorded pid 47010 does not match the current pid 42107
+[2025-10-10T23:36:03.883+0200] {process_utils.py:131} INFO - Sending Signals.SIGTERM to group 42107. PIDs of all processes in the group: [42107]
+[2025-10-10T23:36:03.884+0200] {process_utils.py:86} INFO - Sending the signal Signals.SIGTERM to group 42107
+[2025-10-10T23:37:03.898+0200] {process_utils.py:149} WARNING - process psutil.Process(pid=42107, name='Python', status='running', started='23:28:35') did not respond to SIGTERM. Trying SIGKILL
+[2025-10-10T23:37:03.923+0200] {process_utils.py:86} INFO - Sending the signal Signals.SIGKILL to group 42107
+[2025-10-10T23:37:03.928+0200] {process_utils.py:79} INFO - Process psutil.Process(pid=42107, name='Python', status='terminated', exitcode=<Negsignal.SIGKILL: -9>, started='23:28:35') (42107) terminated with exit code Negsignal.SIGKILL
+[2025-10-10T23:37:03.929+0200] {standard_task_runner.py:175} ERROR - Job 105 was killed before it finished (likely due to running out of memory)

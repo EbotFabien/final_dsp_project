@@ -1,0 +1,22 @@
+[2025-10-10T23:36:00.699+0200] {taskinstance.py:1979} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: predict_batch_dag.send_batch_predictions scheduled__2025-10-10T21:18:00+00:00 [queued]>
+[2025-10-10T23:36:00.701+0200] {taskinstance.py:1979} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: predict_batch_dag.send_batch_predictions scheduled__2025-10-10T21:18:00+00:00 [queued]>
+[2025-10-10T23:36:00.701+0200] {taskinstance.py:2193} INFO - Starting attempt 4 of 1
+[2025-10-10T23:36:00.707+0200] {taskinstance.py:2214} INFO - Executing <Task(PythonOperator): send_batch_predictions> on 2025-10-10 21:18:00+00:00
+[2025-10-10T23:36:00.711+0200] {standard_task_runner.py:60} INFO - Started process 47010 to run task
+[2025-10-10T23:36:00.714+0200] {standard_task_runner.py:87} INFO - Running: ['airflow', 'tasks', 'run', 'predict_batch_dag', 'send_batch_predictions', 'scheduled__2025-10-10T21:18:00+00:00', '--job-id', '105', '--raw', '--subdir', 'DAGS_FOLDER/prediction_dag.py', '--cfg-path', '/var/folders/rp/syznybx160jd0kg9k7r_sj8w0000gn/T/tmplqyhgm50']
+[2025-10-10T23:36:00.716+0200] {standard_task_runner.py:88} INFO - Job 105: Subtask send_batch_predictions
+[2025-10-10T23:36:00.737+0200] {task_command.py:423} INFO - Running <TaskInstance: predict_batch_dag.send_batch_predictions scheduled__2025-10-10T21:18:00+00:00 [running]> on host ebots-macbook-pro.local
+[2025-10-10T23:36:00.760+0200] {taskinstance.py:2510} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='predict_batch_dag' AIRFLOW_CTX_TASK_ID='send_batch_predictions' AIRFLOW_CTX_EXECUTION_DATE='2025-10-10T21:18:00+00:00' AIRFLOW_CTX_TRY_NUMBER='4' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2025-10-10T21:18:00+00:00'
+[2025-10-10T23:36:00.761+0200] {logging_mixin.py:188} INFO - 📄 Found CSV file: /Users/ebotfabien/Desktop/school/air_new/dags/destination/data_part_1.csv
+[2025-10-10T23:36:00.767+0200] {logging_mixin.py:188} INFO - 📦 Sending 10 batch(es)...
+[2025-10-10T23:36:16.602+0200] {process_utils.py:131} INFO - Sending Signals.SIGTERM to group 47010. PIDs of all processes in the group: [47010]
+[2025-10-10T23:36:16.610+0200] {process_utils.py:86} INFO - Sending the signal Signals.SIGTERM to group 47010
+[2025-10-10T23:36:22.597+0200] {taskinstance.py:1969} INFO - Dependencies not met for <TaskInstance: predict_batch_dag.send_batch_predictions scheduled__2025-10-10T21:18:00+00:00 [running]>, dependency 'Task Instance State' FAILED: Task is in the 'running' state.
+[2025-10-10T23:36:22.604+0200] {taskinstance.py:1969} INFO - Dependencies not met for <TaskInstance: predict_batch_dag.send_batch_predictions scheduled__2025-10-10T21:18:00+00:00 [running]>, dependency 'Task Instance Not Running' FAILED: Task is in the running state
+[2025-10-10T23:36:22.604+0200] {local_task_job_runner.py:160} INFO - Task is not able to be run
+[2025-10-10T23:37:19.795+0200] {taskinstance.py:1969} INFO - Dependencies not met for <TaskInstance: predict_batch_dag.send_batch_predictions scheduled__2025-10-10T21:18:00+00:00 [running]>, dependency 'Task Instance Not Running' FAILED: Task is in the running state
+[2025-10-10T23:37:19.795+0200] {taskinstance.py:1969} INFO - Dependencies not met for <TaskInstance: predict_batch_dag.send_batch_predictions scheduled__2025-10-10T21:18:00+00:00 [running]>, dependency 'Task Instance State' FAILED: Task is in the 'running' state.
+[2025-10-10T23:37:19.797+0200] {local_task_job_runner.py:160} INFO - Task is not able to be run
+[2025-10-10T23:37:20.199+0200] {taskinstance.py:1969} INFO - Dependencies not met for <TaskInstance: predict_batch_dag.send_batch_predictions scheduled__2025-10-10T21:18:00+00:00 [running]>, dependency 'Task Instance Not Running' FAILED: Task is in the running state
+[2025-10-10T23:37:20.199+0200] {taskinstance.py:1969} INFO - Dependencies not met for <TaskInstance: predict_batch_dag.send_batch_predictions scheduled__2025-10-10T21:18:00+00:00 [running]>, dependency 'Task Instance State' FAILED: Task is in the 'running' state.
+[2025-10-10T23:37:20.199+0200] {local_task_job_runner.py:160} INFO - Task is not able to be run
